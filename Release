@@ -1,0 +1,7 @@
+Origin: 学习交流
+Label: 学习交流
+Suite: stable
+Version: 1.1
+Codename: fly
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
