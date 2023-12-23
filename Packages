@@ -39,10 +39,10 @@ Maintainer: x✨
 Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.jrtthook_1.0.0_iphoneos-arm.deb
-Size: 162800
-MD5sum: 1acbc51b829bb6177f377106df495f87
-SHA1: 077aa79916789fa039c5b26588f63b6007a04a61
-SHA256: 763589498d4e315bf250ef18fcd2e63eb071fd51e8005ce56885ad2da444eb72
+Size: 163236
+MD5sum: 88035fea38b6dfd1ba0793d572bfc6bf
+SHA1: fbd23a8aae05333dea75f68f30e94d1ad848e009
+SHA256: 6f4e35a34ab21149fe87dd37b40de69f281855b51987b646c7df35a16eec48b0
 Section: Tweaks
 Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项 -- 支持pro版
 Author: x✨
@@ -55,10 +55,10 @@ Maintainer: x✨
 Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.xx.jrtthook_1.0.0_iphoneos-arm64.deb
-Size: 163074
-MD5sum: 3098cfad172a305f5c3a88ffb2fb3dfb
-SHA1: 8a1624fa41b036d736e3a0d6904e5d16e30b5b99
-SHA256: 4d181c4f28002e2f1357dc3e05dfc3ef807f1736675e9be520be6477c29380b2
+Size: 162578
+MD5sum: 8df39b4b4c0f64eb8ec0b20995ea5f2b
+SHA1: 2fbeaae53770e0a3878b5986d86caa3e870f9556
+SHA256: cbb8bb85e9d139b26c759051b1648191a9b19fc2b234c5d72f09a1a8d7386681
 Section: Tweaks
 Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项 -- 支持pro版
 Author: x✨
