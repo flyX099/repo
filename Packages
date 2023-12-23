@@ -32,6 +32,38 @@ Author: x✨
 Name: 抖音图层一些调整
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.jrtthook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.jrtthook_1.0.0_iphoneos-arm.deb
+Size: 162302
+MD5sum: 67f079655dc9468fac7f9fdb5a42b12f
+SHA1: cd01e00a3a568385f314c3f73f2baf211b68f599
+SHA256: 541c94054af688cc65d70911b7bfad8036f795dc58ad201db64340251b0da129
+Section: Tweaks
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项
+Author: x✨
+Name: 今日头条Hook
+
+Package: com.xx.jrtthook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.jrtthook_1.0.0_iphoneos-arm64.deb
+Size: 161202
+MD5sum: cc5af4d254cbae75eb0a018218b86448
+SHA1: 4c1d89256e99c23488e576a853bf74f8b7ff73d2
+SHA256: 8ac02d44ec59578b92219f2e922b96cf94fb95eb847d287e02f91e5a17b51d2f
+Section: Tweaks
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项
+Author: x✨
+Name: 今日头条Hook
+
 Package: com.xx.xhshook
 Version: 1.0.0
 Architecture: iphoneos-arm
