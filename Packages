@@ -65,34 +65,34 @@ Author: x✨
 Name: 今日头条Hook
 
 Package: com.xx.xhshook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 308
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.0.1_iphoneos-arm.deb
-Size: 92040
-MD5sum: d342bb3a9d8474e4b27b89c540165e4f
-SHA1: 049390d9853f58db622c0fa449d3c4c6a6704353
-SHA256: 6bb3146765894f083ec279d2536166403a8d833f410ed0fbc73f583c5b66b930
+Filename: debs/rootfull/com.xx.xhshook_1.0.2_iphoneos-arm.deb
+Size: 92230
+MD5sum: 213152fea86d9e44b8b03c07a1319c3c
+SHA1: a0985d90720b457ec08aba83d3142873dce6fcd7
+SHA256: 937b8cf8f0ff2a619bce47bc5ee0a5bbf4d1a7058a5caabd82c097168188db5a
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题. 1.0.2 尝试修复部分账号无法保存评论区图片的问题.
 Author: x✨
 Name: 小红薯调整
 
 Package: com.xx.xhshook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 308
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.0.1_iphoneos-arm64.deb
-Size: 92650
-MD5sum: 08bc3278983ee4f93472a888fae46016
-SHA1: 87ede51110fc98b14cf45951bdf3289996c3a99c
-SHA256: 9eb98a4dc39f1c3058293e326bb661e73441ece9993fc155528fbff1ec814156
+Filename: debs/rootless/com.xx.xhshook_1.0.2_iphoneos-arm64.deb
+Size: 92742
+MD5sum: 59c542a22bd3bee02cf569908a9bbd5b
+SHA1: 4a799f172f332b421bc5d0a6a39db6a7e73ca877
+SHA256: 1d1885e2735d3f27e7e71545a8103e74c1ad62c5e6d90a60159ab797a16abfa2
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题. 1.0.2 尝试修复部分账号无法保存评论区图片的问题.
 Author: x✨
 Name: 小红薯调整
 
