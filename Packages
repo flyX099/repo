@@ -33,66 +33,66 @@ Name: 抖音图层一些调整
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.jrtthook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.jrtthook_1.0.0_iphoneos-arm.deb
-Size: 163236
-MD5sum: 88035fea38b6dfd1ba0793d572bfc6bf
-SHA1: fbd23a8aae05333dea75f68f30e94d1ad848e009
-SHA256: 6f4e35a34ab21149fe87dd37b40de69f281855b51987b646c7df35a16eec48b0
+Filename: debs/rootfull/com.xx.jrtthook_1.0.1_iphoneos-arm.deb
+Size: 162666
+MD5sum: f5e70eaac33a296c5316f9cc6cce18da
+SHA1: 0cb3d501e3292c01cc5d51794bc0fc7b18379882
+SHA256: 90058c315d71762d3d864684c5c8958ddea13e53848a2413ac6999d9820a71ae
 Section: Tweaks
-Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项 -- 支持pro版
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项 -- 支持pro版 -- 1.0.1 new:精选页悬浮促销移除,视频推荐页右上角@水印移除
 Author: x✨
 Name: 今日头条Hook
 
 Package: com.xx.jrtthook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.jrtthook_1.0.0_iphoneos-arm64.deb
-Size: 162578
-MD5sum: 8df39b4b4c0f64eb8ec0b20995ea5f2b
-SHA1: 2fbeaae53770e0a3878b5986d86caa3e870f9556
-SHA256: cbb8bb85e9d139b26c759051b1648191a9b19fc2b234c5d72f09a1a8d7386681
+Filename: debs/rootless/com.xx.jrtthook_1.0.1_iphoneos-arm64.deb
+Size: 162496
+MD5sum: 5ed339a661a75ca22e037f3e10e36e75
+SHA1: b3f9045fd130ee4f7d54a58d69837b03bf2c36ae
+SHA256: c5590f6b6b1edfa63b27b0ad604270e34e9e0ef062528d29fa6718c435443852
 Section: Tweaks
-Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项 -- 支持pro版
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项 -- 支持pro版 -- 1.0.1 new:精选页悬浮促销移除,视频推荐页右上角@水印移除
 Author: x✨
 Name: 今日头条Hook
 
 Package: com.xx.xhshook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 324
+Installed-Size: 308
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.0.0_iphoneos-arm.deb
-Size: 96944
-MD5sum: 02f68b4d011d25b18e32f6657667df3a
-SHA1: dc3f2c6be71ac65c161752e7472dab9b8d9ee6db
-SHA256: 3082b0be62b3198295fedaea34e3a84a230442d647e09eac9904e6fe2a8b6603
+Filename: debs/rootfull/com.xx.xhshook_1.0.1_iphoneos-arm.deb
+Size: 92040
+MD5sum: d342bb3a9d8474e4b27b89c540165e4f
+SHA1: 049390d9853f58db622c0fa449d3c4c6a6704353
+SHA256: 6bb3146765894f083ec279d2536166403a8d833f410ed0fbc73f583c5b66b930
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 无水印保存图片-视频-live图 -- 长按复制文案标题(关注板块需要长按外面的视图 里面无效)
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题
 Author: x✨
 Name: 小红薯调整
 
 Package: com.xx.xhshook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 324
+Installed-Size: 308
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.0.0_iphoneos-arm64.deb
-Size: 96794
-MD5sum: 9fca3d90918e3a7909f62052b7b7793d
-SHA1: b0c4bcb12e3baae066fbfc22beac9c0d0256d142
-SHA256: 2ba97bf620307b8549f66b1f91032fd4a6ec60cb42a66d11202d41870c5daa59
+Filename: debs/rootless/com.xx.xhshook_1.0.1_iphoneos-arm64.deb
+Size: 92650
+MD5sum: 08bc3278983ee4f93472a888fae46016
+SHA1: 87ede51110fc98b14cf45951bdf3289996c3a99c
+SHA256: 9eb98a4dc39f1c3058293e326bb661e73441ece9993fc155528fbff1ec814156
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 无水印保存图片-视频-live图 -- 长按复制文案标题(关注板块需要长按外面的视图 里面无效)
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题
 Author: x✨
 Name: 小红薯调整
 
