@@ -34,15 +34,15 @@ Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.ecnyhook
 Version: 1.0.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.ecnyhook_1.0.0_iphoneos-arm64.deb
-Size: 18668
-MD5sum: 3f22871d29bc11ef1cb255b573f30ec9
-SHA1: 88fa43f56b073f5c3626e52ccda9a90dd5486526
-SHA256: a72d854e1ce2742292ff3526c2e470eb15969a76aa2f3228f5dcc2d38973bc18
+Filename: debs/rootfull/com.xx.ecnyhook_1.0.0_iphoneos-arm.deb
+Size: 19010
+MD5sum: 9b7e4f5857406e4c1d43accb340218e9
+SHA1: cb6149f1d9a79404a26dc8fa54159e67a6b3ffd3
+SHA256: bb54720594e51c4ec9eb3ebc348a3e823b8b60f090b7b247ed4840ced44b4417
 Section: Tweaks
 Description: 屏蔽1.1.3版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
 Author: x✨
