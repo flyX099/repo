@@ -32,35 +32,67 @@ Author: x✨
 Name: 抖音图层一些调整
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.ecnyhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.ecnyhook_1.0.0_iphoneos-arm64.deb
+Size: 18668
+MD5sum: 3f22871d29bc11ef1cb255b573f30ec9
+SHA1: 88fa43f56b073f5c3626e52ccda9a90dd5486526
+SHA256: a72d854e1ce2742292ff3526c2e470eb15969a76aa2f3228f5dcc2d38973bc18
+Section: Tweaks
+Description: 屏蔽1.1.3版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
+Author: x✨
+Name: 数字人民币屏蔽越狱
+
+Package: com.xx.ecnyhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.ecnyhook_1.0.0_iphoneos-arm64.deb
+Size: 18668
+MD5sum: 3f22871d29bc11ef1cb255b573f30ec9
+SHA1: 88fa43f56b073f5c3626e52ccda9a90dd5486526
+SHA256: a72d854e1ce2742292ff3526c2e470eb15969a76aa2f3228f5dcc2d38973bc18
+Section: Tweaks
+Description: 屏蔽1.1.3版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
+Author: x✨
+Name: 数字人民币屏蔽越狱
+
 Package: com.xx.jrtthook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.jrtthook_1.0.1_iphoneos-arm.deb
-Size: 162666
-MD5sum: f5e70eaac33a296c5316f9cc6cce18da
-SHA1: 0cb3d501e3292c01cc5d51794bc0fc7b18379882
-SHA256: 90058c315d71762d3d864684c5c8958ddea13e53848a2413ac6999d9820a71ae
+Filename: debs/rootfull/com.xx.jrtthook_1.0.2_iphoneos-arm.deb
+Size: 165856
+MD5sum: 654c2c7b8c187a5497db95c9d7c39dfb
+SHA1: 2028c01df9bfd9d5005c28c9dbcb401d1fb83cd3
+SHA256: a80256a1ea97c37c8135d645c321ac276ac848cabaae6c2adb0e1c201941ec18
 Section: Tweaks
-Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项 -- 支持pro版 -- 1.0.1 new:精选页悬浮促销移除,视频推荐页右上角@水印移除
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.2更新内容：保存视频增加一个方式-- 尝试修复移除底部bug
 Author: x✨
 Name: 今日头条Hook
 
 Package: com.xx.jrtthook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.jrtthook_1.0.1_iphoneos-arm64.deb
-Size: 162496
-MD5sum: 5ed339a661a75ca22e037f3e10e36e75
-SHA1: b3f9045fd130ee4f7d54a58d69837b03bf2c36ae
-SHA256: c5590f6b6b1edfa63b27b0ad604270e34e9e0ef062528d29fa6718c435443852
+Filename: debs/rootless/com.xx.jrtthook_1.0.2_iphoneos-arm64.deb
+Size: 165684
+MD5sum: 06f6d0372380333f85fb4652c893ec43
+SHA1: ed4e7a600cc1ee36678b7272977b6295ed4c0817
+SHA256: 544ef1c2712a21acdab2efafc261b759e734618d840456c610e34cbcfdf81bc1
 Section: Tweaks
-Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项 -- 支持pro版 -- 1.0.1 new:精选页悬浮促销移除,视频推荐页右上角@水印移除
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.2更新内容：保存视频增加一个方式-- 尝试修复移除底部bug
 Author: x✨
 Name: 今日头条Hook
 
