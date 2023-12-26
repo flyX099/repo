@@ -103,10 +103,10 @@ Maintainer: x✨
 Installed-Size: 548
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.kshook_1.0.0_iphoneos-arm.deb
-Size: 156466
-MD5sum: a69e65bb660fe57ad7ce36add21bc486
-SHA1: d82a13215eff80961f100859d44bf306971239f9
-SHA256: afe70ce347c5892dd059255f78454a2459c27f19054402707f1f957fbbc45f61
+Size: 157196
+MD5sum: d4a66141723bb346f1d6adb6639655c3
+SHA1: 1daa9e0507e14d50f43bef4fc1a34605738b01e2
+SHA256: 010655bc1220a8e4125a6b3a77116e636a85f14c313adc1ae48d77f0c3670275
 Section: Tweaks
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片
 Author: x✨
@@ -119,10 +119,10 @@ Maintainer: x✨
 Installed-Size: 548
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.xx.kshook_1.0.0_iphoneos-arm64.deb
-Size: 157704
-MD5sum: 9c8344a30a2abc0c97f059acf83374f3
-SHA1: c7f65ef92d0b94bff1668d18a1ce8ca48d53769b
-SHA256: a4e9bab6ecad3ef87accbe6c586994e79b9571ca00bf31f008c84c9fcae63244
+Size: 156850
+MD5sum: f2a98e238e18ea35e6ad889d2b3b21e6
+SHA1: bfee1abc10e726fe27dfe8efff057ac479ef092d
+SHA256: 69c59d742f6fe9e9f0173fc0a46bf1610977e6924923dd91a487b49ae1da34d8
 Section: Tweaks
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片
 Author: x✨
