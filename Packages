@@ -33,34 +33,34 @@ Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.ecnyhook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.ecnyhook_1.0.0_iphoneos-arm.deb
-Size: 19010
-MD5sum: 9b7e4f5857406e4c1d43accb340218e9
-SHA1: cb6149f1d9a79404a26dc8fa54159e67a6b3ffd3
-SHA256: bb54720594e51c4ec9eb3ebc348a3e823b8b60f090b7b247ed4840ced44b4417
+Filename: debs/rootfull/com.xx.ecnyhook_1.0.1_iphoneos-arm.deb
+Size: 17316
+MD5sum: 38bde24dc1d5fe6eea7369673b52cf27
+SHA1: 7899bf9900b6322560b406129d8b6daf809d5c93
+SHA256: c7d35c090f1c944c8b98314af54b9803faee9e7e90011cde804d81d851fd6544
 Section: Tweaks
-Description: 屏蔽1.1.3版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
+Description: 屏蔽1.1.3 | 1.1.4版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
 Author: x✨
 Name: 数字人民币屏蔽越狱
 
 Package: com.xx.ecnyhook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.ecnyhook_1.0.0_iphoneos-arm64.deb
-Size: 18668
-MD5sum: 3f22871d29bc11ef1cb255b573f30ec9
-SHA1: 88fa43f56b073f5c3626e52ccda9a90dd5486526
-SHA256: a72d854e1ce2742292ff3526c2e470eb15969a76aa2f3228f5dcc2d38973bc18
+Filename: debs/rootless/com.xx.ecnyhook_1.0.1_iphoneos-arm64.deb
+Size: 18698
+MD5sum: 005c5f1c6d541dca8b6269ddbfd4a669
+SHA1: d5bff4793d227d31ab682264e610a51b25e5be7e
+SHA256: ccd523d077a2c349fa9a197ea22721b496a2ccb7e5cd22b6cc68b3ba951a2d28
 Section: Tweaks
-Description: 屏蔽1.1.3版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
+Description: 屏蔽1.1.3 | 1.1.4版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
 Author: x✨
 Name: 数字人民币屏蔽越狱
 
@@ -97,34 +97,34 @@ Author: x✨
 Name: 今日头条Hook
 
 Package: com.xx.kshook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 580
+Installed-Size: 628
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.kshook_1.0.1_iphoneos-arm.deb
-Size: 161888
-MD5sum: 3cb5d72debd9e29b1da31fa248dceb0d
-SHA1: 2b2b7456306bb714c0166291e6f3ebff3d9266cc
-SHA256: 99ca63c5eaf24e4ef20feb38a4ad01d8f46941d1111b5fe262825f4725641ffb
+Filename: debs/rootfull/com.xx.kshook_1.0.2_iphoneos-arm.deb
+Size: 176764
+MD5sum: c887de3e18c22e500f0ada580a044bda
+SHA1: b4f3090d9610f0415f85d5dcb40f84ab4b092a1f
+SHA256: 2d9e9a538d618d7af23062ca5023ca1c030e4fc85374dec47fd91ceb13cc372e
 Section: Tweaks
-Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.1更新:修复已知一些问题，增加自动连播,移除视频流直播|广告,增强图片保存无水印为强制开启保存相册功能.
+Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.2更新:尝试解决部分人闪退？还是闪的无解了卸载吧 | 保存无水印视频清晰度高压缩率低 | 保存无水印视频长按双指改为双击 | 悬浮红包改为开关隐藏
 Author: x✨
 Name: 快手Hook
 
 Package: com.xx.kshook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 580
+Installed-Size: 612
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.kshook_1.0.1_iphoneos-arm64.deb
-Size: 161574
-MD5sum: f45898700932ba05ceccfa7f322e982b
-SHA1: 64e942860682573478606d8e5266277bd0f25e33
-SHA256: b540aec4aa37ccbb2c477783f91c384903f6042c07ded06a0ec458c7f197b3db
+Filename: debs/rootless/com.xx.kshook_1.0.2_iphoneos-arm64.deb
+Size: 175008
+MD5sum: 29f8f09a681416c58f28ab286f5535a3
+SHA1: 01d227bb40d8dcae42968359fa1d7d8849a6a7c3
+SHA256: 7ef39c979aac98681963cc89ab7a07bae588d96d0a8781a7fcd70dc403fe7b05
 Section: Tweaks
-Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.1更新:修复已知一些问题，增加自动连播,移除视频流直播|广告,增强图片保存无水印为强制开启保存相册功能.
+Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.2更新:尝试解决部分人闪退？还是闪的无解了卸载吧 | 保存无水印视频清晰度高压缩率低 | 保存无水印视频长按双指改为双击 | 悬浮红包改为开关隐藏
 Author: x✨
 Name: 快手Hook
 
