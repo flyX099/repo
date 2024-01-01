@@ -64,6 +64,38 @@ Description: 屏蔽1.1.3 | 1.1.4版本越狱检测(请使用Choicy禁止注入�
 Author: x✨
 Name: 数字人民币屏蔽越狱
 
+Package: com.xx.gaodehook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.gaodehook_1.0.0_iphoneos-arm.deb
+Size: 83266
+MD5sum: 7d3f4437b6c367603c0fcadb7fca629a
+SHA1: 378e4a00b36724dbcffe3504d5d011bee4d30131
+SHA256: 20fee884b799e17f0578b33cfe6c1ee9b1b6d8cffb580df5e23d61567de61e14
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.gaodehook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.gaodehook_1.0.0_iphoneos-arm64.deb
+Size: 83400
+MD5sum: db2e5d898e48ed189a0dd0e87b9f016c
+SHA1: cd0f03dd94d36ea74310c1b43f95b7ecee58a14b
+SHA256: 90acc4fe1386147db8d73091c726de9d1c17afebc943422b5266b3a339ded537
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭
+Author: x✨
+Name: 高德地图优化
+
 Package: com.xx.jrtthook
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -128,35 +160,67 @@ Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功�
 Author: x✨
 Name: 快手Hook
 
+Package: com.xx.kshook
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 628
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.kshook_1.0.3_iphoneos-arm.deb
+Size: 175126
+MD5sum: 7bac3e6c531a5ee5ae260658c4442af9
+SHA1: 7295207c3309f0e3b018ce32548296539f12d87b
+SHA256: 55788d4f6f35a32b7bb9fef964732cc80b993cfccdcb7b4bdd4eb95977c967dd
+Section: Tweaks
+Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.3更新:fix bug
+Author: x✨
+Name: 快手Hook
+
+Package: com.xx.kshook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.kshook_1.0.3_iphoneos-arm64.deb
+Size: 174896
+MD5sum: aa109eda335d1ca6cffabfd96c5588b4
+SHA1: bf0c287a1170a8cd586dfb4d535d91b2068b7328
+SHA256: 17c57991774ecf16e2d28fbeb74787ddac4b8ef5ed0b6a78b5b31b3d0b41ae25
+Section: Tweaks
+Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.3更新:fix bug
+Author: x✨
+Name: 快手Hook
+
 Package: com.xx.xhshook
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 308
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.0.2_iphoneos-arm.deb
-Size: 92230
-MD5sum: 213152fea86d9e44b8b03c07a1319c3c
-SHA1: a0985d90720b457ec08aba83d3142873dce6fcd7
-SHA256: 937b8cf8f0ff2a619bce47bc5ee0a5bbf4d1a7058a5caabd82c097168188db5a
+Filename: debs/rootfull/com.xx.xhshook_1.0.3_iphoneos-arm.deb
+Size: 93280
+MD5sum: defd8226524ba58d9d65ac4bfc4ead26
+SHA1: fbbc1a5975f7024e451c74bccc42a582bb26d062
+SHA256: 77692204e363afdf9e5fc519b32f53ba08fca3c9940a2f2c914c640b4a1aa2d1
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题. 1.0.2 尝试修复部分账号无法保存评论区图片的问题.
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 | 1.0.3更新内容：尝试解决live图有时无法保存的问题
 Author: x✨
 Name: 小红薯调整
 
 Package: com.xx.xhshook
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 308
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.0.2_iphoneos-arm64.deb
-Size: 92742
-MD5sum: 59c542a22bd3bee02cf569908a9bbd5b
-SHA1: 4a799f172f332b421bc5d0a6a39db6a7e73ca877
-SHA256: 1d1885e2735d3f27e7e71545a8103e74c1ad62c5e6d90a60159ab797a16abfa2
+Filename: debs/rootless/com.xx.xhshook_1.0.3_iphoneos-arm64.deb
+Size: 93980
+MD5sum: d56f48a4f1896fdcccd1a487bda63c06
+SHA1: 4cf39cf3994f6fcd0055f57d693980d74993f5c3
+SHA256: 3ee97fbb86ed80e13e3b97b62439bfb09d7223498bc3ac0153d591f5709c8c9b
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题. 1.0.2 尝试修复部分账号无法保存评论区图片的问题.
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 | 1.0.3更新内容：尝试解决live图有时无法保存的问题
 Author: x✨
 Name: 小红薯调整
 
