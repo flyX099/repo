@@ -1,3 +1,35 @@
+Package: com.xx.baiduhook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.baiduhook_1.0.0_iphoneos-arm.deb
+Size: 95674
+MD5sum: c0ce2f95ff2a1fc21908cf8d00f82c41
+SHA1: 338a1042486e4e60718fd2d11af2d289f4e966b1
+SHA256: ed24ba37148ed1bb9dc50981e3d2ff80c7c4c544d908f717326ec3147d966577
+Section: Tweaks
+Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部周边-打车-公共交通 | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭
+Author: x✨
+Name: 百度地图优化
+
+Package: com.xx.baiduhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.baiduhook_1.0.0_iphoneos-arm64.deb
+Size: 93708
+MD5sum: c0e33159584c0d11cc1efdb6cff8a207
+SHA1: ee2a930f14f003479064064fd0e800a9b1d9f39e
+SHA256: 7ea463828fa72d00e7667742ef2afb07c9ff2899cdb74e5a57a43b686a12080a
+Section: Tweaks
+Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部周边-打车-公共交通 | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭
+Author: x✨
+Name: 百度地图优化
+
 Package: com.xx.dyhook
 Version: 1.1.6
 Architecture: iphoneos-arm
@@ -26,6 +58,40 @@ Size: 271100
 MD5sum: a6ff552f852df65e77d44f3ceb445226
 SHA1: c3f96c7c10fbc30b745aa5da494d9b0195fd88c9
 SHA256: d5bd5e7f3e0e2f26efcf7cf80f7dbd3bc3ea5c280b14c889bc9600710aaf0be0
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dyhook_1.1.7_iphoneos-arm.deb
+Size: 318192
+MD5sum: 96080a0bdf1f6a6ffe48ed64be56751e
+SHA1: cadcc9ff356f303b15cfbef5b2e19e882e631d17
+SHA256: 6ae160c5284b8712ddb182a94c3c595169659a8a55cdcd055bb82b4c251041d9
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dyhook_1.1.7_iphoneos-arm64.deb
+Size: 317976
+MD5sum: d3678b765af6c2bbbd6ac8361d74caab
+SHA1: 662948d5daee399ae764441b5d182fb82ab8f7fb
+SHA256: 13d56587488b55cb1d1f258291e8d5120c0bb58fc863dcc9d7eaa3f3b3d08ba8
 Section: Tweaks
 Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
 Author: x✨
@@ -65,34 +131,34 @@ Author: x✨
 Name: 数字人民币屏蔽越狱
 
 Package: com.xx.gaodehook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 288
+Installed-Size: 324
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.gaodehook_1.0.0_iphoneos-arm.deb
-Size: 83266
-MD5sum: 7d3f4437b6c367603c0fcadb7fca629a
-SHA1: 378e4a00b36724dbcffe3504d5d011bee4d30131
-SHA256: 20fee884b799e17f0578b33cfe6c1ee9b1b6d8cffb580df5e23d61567de61e14
+Filename: debs/rootfull/com.xx.gaodehook_1.0.1_iphoneos-arm.deb
+Size: 93604
+MD5sum: 2c27389c1f22edcf73c687599ee38494
+SHA1: ac7db9eed4a17d325d7836e406493b9391a19907
+SHA256: c98dd4deb554b5248c813b73e99d7ff8e55c897e39933cab39b017ae1179d04f
 Section: Tweaks
-Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.1更新内容：增加移除底部附近 | 首页搜索下方无用视图移除
 Author: x✨
 Name: 高德地图优化
 
 Package: com.xx.gaodehook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 288
+Installed-Size: 324
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.gaodehook_1.0.0_iphoneos-arm64.deb
-Size: 83400
-MD5sum: db2e5d898e48ed189a0dd0e87b9f016c
-SHA1: cd0f03dd94d36ea74310c1b43f95b7ecee58a14b
-SHA256: 90acc4fe1386147db8d73091c726de9d1c17afebc943422b5266b3a339ded537
+Filename: debs/rootless/com.xx.gaodehook_1.0.1_iphoneos-arm64.deb
+Size: 93096
+MD5sum: 27e0ce3698dfaff5cfa399cb56b4ab95
+SHA1: bb132c6789362b506c9ed1f17fd130af72adfbb4
+SHA256: eeecb6577762b27a7b56d67eeaafe74b993f1269e54f4bee16c4000e02a1b64f
 Section: Tweaks
-Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.1更新内容：增加移除底部附近 | 首页搜索下方无用视图移除
 Author: x✨
 Name: 高德地图优化
 
@@ -125,6 +191,38 @@ SHA1: ed4e7a600cc1ee36678b7272977b6295ed4c0817
 SHA256: 544ef1c2712a21acdab2efafc261b759e734618d840456c610e34cbcfdf81bc1
 Section: Tweaks
 Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.2更新内容：保存视频增加一个方式-- 尝试修复移除底部bug
+Author: x✨
+Name: 今日头条Hook
+
+Package: com.xx.jrtthook
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 644
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.jrtthook_1.0.3_iphoneos-arm.deb
+Size: 178070
+MD5sum: e64d732497191bac4d792d0e12b95f4e
+SHA1: 2c10e8a4b1fba71ea0d232f971768b31aff2f2ae
+SHA256: 91c59d2aa95e6a44ff9bd5a72ca52e24a9208b0ad3e80c90e07495875cabae22
+Section: Tweaks
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.3更新内容：修复移除底部bug
+Author: x✨
+Name: 今日头条Hook
+
+Package: com.xx.jrtthook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 644
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.jrtthook_1.0.3_iphoneos-arm64.deb
+Size: 177760
+MD5sum: d03367d064268ea090e6e73e73dd4f12
+SHA1: 88a412ca7b6973cbea1ae78099f479a14fc26194
+SHA256: f80ed5da881055ce3e914e224364ebc35d0e9aeb3feaa5122f55bd70cf20c715
+Section: Tweaks
+Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.3更新内容：修复移除底部bug
 Author: x✨
 Name: 今日头条Hook
 
@@ -221,6 +319,38 @@ SHA1: 4cf39cf3994f6fcd0055f57d693980d74993f5c3
 SHA256: 3ee97fbb86ed80e13e3b97b62439bfb09d7223498bc3ac0153d591f5709c8c9b
 Section: Tweaks
 Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 | 1.0.3更新内容：尝试解决live图有时无法保存的问题
+Author: x✨
+Name: 小红薯调整
+
+Package: com.xx.xhshook
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.xhshook_1.0.4_iphoneos-arm.deb
+Size: 104292
+MD5sum: d17cbb5ccc9a30945653d86b1e169214
+SHA1: ede393418b401923dd3fa6ddcae8055de22454a6
+SHA256: dce6ff958ea4777690ca7d5e51c46c19c13f69dfff9caa9edcd933945b7df110
+Section: Tweaks
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 | 1.0.4更新内容：继续解决live图有时无法保存的问题 | 新增部分底部栏板块移除
+Author: x✨
+Name: 小红薯调整
+
+Package: com.xx.xhshook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.xhshook_1.0.4_iphoneos-arm64.deb
+Size: 104978
+MD5sum: 6f1006534812b9a33e121c6f7387c59d
+SHA1: 8fc8b102c9b4909764ba22f6c7879d9e5d61061e
+SHA256: 571791bbabace847ad864477d3529da400b2a1c45c79b208420b98d6e1c19570
+Section: Tweaks
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 | 1.0.4更新内容：继续解决live图有时无法保存的问题 | 新增部分底部栏板块移除
 Author: x✨
 Name: 小红薯调整
 
