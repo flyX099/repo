@@ -98,6 +98,40 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.dyhook
+Version: 1.1.7-1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dyhook_1.1.7-1_iphoneos-arm.deb
+Size: 316926
+MD5sum: 46bbd2f107f4b34970f1e3eb5f27b568
+SHA1: a659121f3fe999db6efe61d448ca1cd934e49438
+SHA256: d5f4d7f13b9cb375c06026a7c9c904d2848bf671d3f71a69e5cb410eec94f035
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dyhook_1.1.7-1_iphoneos-arm64.deb
+Size: 315642
+MD5sum: 919b7553f4be3882fb57b5213ae3e0c4
+SHA1: 4fefdf01ad6221587aedd974ae3f1435f77efcb9
+SHA256: a4b7730ce47543f1756ed0e4cce6599fd80c8ab474a182028d0a5da78770c4e1
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: com.xx.ecnyhook
 Version: 1.0.1
 Architecture: iphoneos-arm
