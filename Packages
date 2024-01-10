@@ -326,15 +326,15 @@ Package: com.xx.ppxhook
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 88
+Installed-Size: 324
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.ppxhook_1.0.0_iphoneos-arm.deb
-Size: 10698
-MD5sum: 4f8ff0ce6365b6e47f77a87dfaccf697
-SHA1: e7f2f58162cd89438b56ce6c7b865a078bef6c0c
-SHA256: 87cab04a7299e68dee15a5884340f1cadf6780ee04f7c4edc5c0181d18bb9194
+Size: 97620
+MD5sum: 644e512d116b666cb3145d09a86b32c2
+SHA1: d8d868dafed47c2af48c0a72e60381d2118de5c8
+SHA256: 5fbd6f2530c2067a823bc33073770b554ebba480fc58c52a81817553a1e0ca55
 Section: Tweaks
-Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 仅在4.9.0版本测试
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单'
 Author: x✨
 Name: 皮皮虾优化
 
@@ -342,15 +342,15 @@ Package: com.xx.ppxhook
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 88
+Installed-Size: 324
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.xx.ppxhook_1.0.0_iphoneos-arm64.deb
-Size: 10560
-MD5sum: b18834f2ce8d2e993f57171e67ba882b
-SHA1: f29082420b1581b2ab3ca62bd3a81af2edbd86ad
-SHA256: 73e17d36f4242903ef1fa957f7ccc7b575224f22db4ebf76a6c7d338286f4332
+Size: 95226
+MD5sum: 42475eda492d101485e616c45c8c12f5
+SHA1: a51df835ae1a860087eaa35edc3a27f3c53f0a67
+SHA256: 57f0637d9b79c6ef136a4a902a7755775c5161046d9e8e1894e024cd0ab84872
 Section: Tweaks
-Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 仅在4.9.0版本测试
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单'
 Author: x✨
 Name: 皮皮虾优化
 
