@@ -3,15 +3,6 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
     <title>添加软件源</title>
-    <script>
-        addEventListener("load", function () {
-            setTimeout(hideURLbar, 0);
-        }, false);
-        function hideURLbar() {
-            window.scrollTo(0, 1);
-        }
-    </script>
-    <link rel="stylesheet" href="./css/style.css" type="text/css" media="all" />
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <style>
         body {
@@ -20,16 +11,20 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
         }
 
         .container {
-            max-width: 500px;
-            margin: 0 auto;
+            text-align: center;
             padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
         }
 
         h1 {
-            text-align: center;
             font-size: 28px;
             font-weight: bold;
             margin: 0 0 20px;
@@ -42,10 +37,11 @@
         }
 
         .button {
-            display: inline-block;
+            display: block;
+            margin: 0 auto;
+            margin-bottom: 10px;
             padding: 10px 20px;
             font-size: 16px;
-            text-align: center;
             text-decoration: none;
             outline: none;
             color: #fff;
@@ -75,6 +71,10 @@
         <form action="#" method="post">
             <p class="legend">添加越狱源<span class="fa fa-hand-o-down"></span></p>
             <a href="sileo://source/https://flyx099.github.io/repo/" class="button">Sileo</a>
+            <br>
+            <a href="zbra://sources/add/https://flyx099.github.io/repo/" class="button">zebra</a>
+            <br>
+            <a href="apt-repo://https://flyx099.github.io/repo/" class="button">saily</a>
         </form>
     </div>
 </body>

@@ -31,74 +31,6 @@ Author: x✨
 Name: 百度地图优化
 
 Package: com.xx.dyhook
-Version: 1.1.6
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 988
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_1.1.6_iphoneos-arm.deb
-Size: 265778
-MD5sum: 9489e81b45c127afa9e79c931db90fd3
-SHA1: 099fff9aaf934942e177a4632252c447643181f1
-SHA256: 774cffb51eadc7b2aa335906f46c7abfd716904b3822680429ee8ce5d628b87d
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.1.6
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 988
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_1.1.6_iphoneos-arm64.deb
-Size: 271100
-MD5sum: a6ff552f852df65e77d44f3ceb445226
-SHA1: c3f96c7c10fbc30b745aa5da494d9b0195fd88c9
-SHA256: d5bd5e7f3e0e2f26efcf7cf80f7dbd3bc3ea5c280b14c889bc9600710aaf0be0
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.1.7
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 1168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_1.1.7_iphoneos-arm.deb
-Size: 318192
-MD5sum: 96080a0bdf1f6a6ffe48ed64be56751e
-SHA1: cadcc9ff356f303b15cfbef5b2e19e882e631d17
-SHA256: 6ae160c5284b8712ddb182a94c3c595169659a8a55cdcd055bb82b4c251041d9
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.1.7
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 1168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_1.1.7_iphoneos-arm64.deb
-Size: 317976
-MD5sum: d3678b765af6c2bbbd6ac8361d74caab
-SHA1: 662948d5daee399ae764441b5d182fb82ab8f7fb
-SHA256: 13d56587488b55cb1d1f258291e8d5120c0bb58fc863dcc9d7eaa3f3b3d08ba8
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
 Version: 1.1.7-1
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -126,6 +58,40 @@ Size: 315642
 MD5sum: 919b7553f4be3882fb57b5213ae3e0c4
 SHA1: 4fefdf01ad6221587aedd974ae3f1435f77efcb9
 SHA256: a4b7730ce47543f1756ed0e4cce6599fd80c8ab474a182028d0a5da78770c4e1
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.8
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dyhook_1.1.8_iphoneos-arm.deb
+Size: 307502
+MD5sum: 3463ee251d8210c82c28fb84d0140dbb
+SHA1: 1ff4d7735d491dc8607472f5198fc43a03bf375d
+SHA256: 22e0935aca393412712403e004eb695cc170307ceef4fa8f4fedbd0ef24a10bb
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dyhook_1.1.8_iphoneos-arm64.deb
+Size: 318396
+MD5sum: 9f497f32b5766f90d229ca2ae6ac9fdc
+SHA1: cdd81f79f051eccecee51009cce723ac4327ce03
+SHA256: fc04643d7726074cbcbabfe379418ddc19e0a8c89004363b073d62b5ae581754
 Section: Tweaks
 Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
 Author: x✨
@@ -163,6 +129,38 @@ Section: Tweaks
 Description: 屏蔽1.1.3 | 1.1.4版本越狱检测(请使用Choicy禁止注入其他插件) -- 逆向练习
 Author: x✨
 Name: 数字人民币屏蔽越狱
+
+Package: com.xx.fqxshook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.fqxshook_1.0.0_iphoneos-arm.deb
+Size: 28726
+MD5sum: a989e2a3a5ade14581d24bfec990cedf
+SHA1: 1dce73bd12c2dca79dc312773ef0650fe00ed426
+SHA256: ac941c582a6906ab7fe87aab8d0d07c8c3a5794f58a2dff689806a49ce5bbea6
+Section: Tweaks
+Description: 自用 | 去除一些广告 | 秒过激励视频 | 仅在6.0.8版本测试
+Author: x✨
+Name: 番茄小说优化
+
+Package: com.xx.fqxshook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.fqxshook_1.0.0_iphoneos-arm64.deb
+Size: 31296
+MD5sum: 3ccc959e54118f588ff84624c3fed0b0
+SHA1: 9fec04f7d80eff84e80a5f8524457c965af3ab2c
+SHA256: 6beba8f82b3529d966af507c8766150018f7dd9e16fec61c0dc493dddf2c9c68
+Section: Tweaks
+Description: 自用 | 去除一些广告 | 秒过激励视频 | 仅在6.0.8版本测试
+Author: x✨
+Name: 番茄小说优化
 
 Package: com.xx.gaodehook
 Version: 1.0.1
@@ -323,6 +321,38 @@ Section: Tweaks
 Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能：移除一些广告|弹窗--无水印保存视频图片 -- 1.0.3更新:fix bug
 Author: x✨
 Name: 快手Hook
+
+Package: com.xx.ppxhook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.ppxhook_1.0.0_iphoneos-arm.deb
+Size: 10698
+MD5sum: 4f8ff0ce6365b6e47f77a87dfaccf697
+SHA1: e7f2f58162cd89438b56ce6c7b865a078bef6c0c
+SHA256: 87cab04a7299e68dee15a5884340f1cadf6780ee04f7c4edc5c0181d18bb9194
+Section: Tweaks
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 仅在4.9.0版本测试
+Author: x✨
+Name: 皮皮虾优化
+
+Package: com.xx.ppxhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.ppxhook_1.0.0_iphoneos-arm64.deb
+Size: 10560
+MD5sum: b18834f2ce8d2e993f57171e67ba882b
+SHA1: f29082420b1581b2ab3ca62bd3a81af2edbd86ad
+SHA256: 73e17d36f4242903ef1fa957f7ccc7b575224f22db4ebf76a6c7d338286f4332
+Section: Tweaks
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 仅在4.9.0版本测试
+Author: x✨
+Name: 皮皮虾优化
 
 Package: com.xx.xhshook
 Version: 1.0.3
