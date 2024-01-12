@@ -257,34 +257,34 @@ Author: x✨
 Name: 快手Hook
 
 Package: com.xx.ppxhook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 340
+Installed-Size: 356
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.ppxhook_1.0.1_iphoneos-arm.deb
-Size: 100314
-MD5sum: d65167cb4db16e9fc7fb1691a69849a1
-SHA1: 46845fc70ce415efd4661b213e6a1abc0787dd13
-SHA256: 364336153b06fdfdc455bdbc85af179a8a19a5bdc5762e5268d22b4fd9aec255
+Filename: debs/rootfull/com.xx.ppxhook_1.0.2_iphoneos-arm.deb
+Size: 104026
+MD5sum: 92f5e14c687269492bc81eb3586575da
+SHA1: e63f6381c4cc3ca376353a41bf3dcbec55188124
+SHA256: bb316469629d67658563fb18440f84ed65017824278cd829b8bef2b674d910ac
 Section: Tweaks
-Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单'
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.2更新内容：修复闪退-增加移除青少年-移除视频流广告
 Author: x✨
 Name: 皮皮虾优化
 
 Package: com.xx.ppxhook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 340
+Installed-Size: 356
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.ppxhook_1.0.1_iphoneos-arm64.deb
-Size: 101810
-MD5sum: c0ae56568b7f484e113c3aacf5c4bed0
-SHA1: 696882b10675948099be9a0c1db6ac09cb7e6fa6
-SHA256: 63dbc5ee47c8c7309223e012c430375bec7c526758b568a9587748b4a264a1b0
+Filename: debs/rootless/com.xx.ppxhook_1.0.2_iphoneos-arm64.deb
+Size: 101592
+MD5sum: 20f08aea78e14b7112e76ac6f8f1a6ec
+SHA1: da3a07d2c38c6d3d11e273dcf3740508e8ad75ac
+SHA256: 4bcf0a399265e872ab8dcb2f7266db0155dde331bd53f6a08be709976f58dced
 Section: Tweaks
-Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单'
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.2更新内容：修复闪退-增加移除青少年-移除视频流广告
 Author: x✨
 Name: 皮皮虾优化
 
