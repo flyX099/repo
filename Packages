@@ -257,34 +257,34 @@ Author: x✨
 Name: 快手Hook
 
 Package: com.xx.ppxhook
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: x✨
 Installed-Size: 356
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.ppxhook_1.0.2_iphoneos-arm.deb
-Size: 104026
-MD5sum: 92f5e14c687269492bc81eb3586575da
-SHA1: e63f6381c4cc3ca376353a41bf3dcbec55188124
-SHA256: bb316469629d67658563fb18440f84ed65017824278cd829b8bef2b674d910ac
+Filename: debs/rootfull/com.xx.ppxhook_1.0.3_iphoneos-arm.deb
+Size: 102594
+MD5sum: d0d55fe946ad1acc26eace626aeffc8b
+SHA1: 4c2fe46c94899a225a09c08dd5e27be8d6b52f0b
+SHA256: 903971b9cc1df7b5dedad3eb209de7390c0b1a2e403075e6f52fd414e080cd58
 Section: Tweaks
-Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.2更新内容：修复闪退-增加移除青少年-移除视频流广告
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.3更新内容：修复闪退-增加移除青少年-移除视频流广告-修复消息无法加载
 Author: x✨
 Name: 皮皮虾优化
 
 Package: com.xx.ppxhook
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 356
+Installed-Size: 372
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.ppxhook_1.0.2_iphoneos-arm64.deb
-Size: 101592
-MD5sum: 20f08aea78e14b7112e76ac6f8f1a6ec
-SHA1: da3a07d2c38c6d3d11e273dcf3740508e8ad75ac
-SHA256: 4bcf0a399265e872ab8dcb2f7266db0155dde331bd53f6a08be709976f58dced
+Filename: debs/rootless/com.xx.ppxhook_1.0.3_iphoneos-arm64.deb
+Size: 103962
+MD5sum: c1ef1f79c5a59fb87998da34f291b43c
+SHA1: bcfcbe221015b6def7048b0eed6dc701be9bc559
+SHA256: 2452d8e6f0fa5d43459ccf816d443f11bd9acc94e53eabadbb3b792693f8debe
 Section: Tweaks
-Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.2更新内容：修复闪退-增加移除青少年-移除视频流广告
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.3更新内容：修复闪退-增加移除青少年-移除视频流广告-修复消息无法加载
 Author: x✨
 Name: 皮皮虾优化
 
