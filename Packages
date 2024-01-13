@@ -30,6 +30,38 @@ Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移�
 Author: x✨
 Name: 百度地图优化
 
+Package: com.xx.baiduhook
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.baiduhook_1.0.1_iphoneos-arm.deb
+Size: 96356
+MD5sum: 128cf25261cd4017940f6aae129213d1
+SHA1: 75f4ef8ec83f92548756ba0b07a0fd41b13803dd
+SHA256: b36dae0eb6a19651e8b29dea6eb8c2af30a5dd84716b6c4c80e3aecae61692f4
+Section: Tweaks
+Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部周边-打车-公共交通 | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭 || 1.0.1更新内容：修复一些问题-增加搜索栏移除拍摄按钮(可开关)
+Author: x✨
+Name: 百度地图优化
+
+Package: com.xx.baiduhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.baiduhook_1.0.1_iphoneos-arm64.deb
+Size: 94990
+MD5sum: 2672b86eaa4d0cf480751401559cf297
+SHA1: 080dc36f81381a514b2ed9f524f2f08b84706c77
+SHA256: 81b699fd6bd21542832c2426f377f97009ad60c19a72f29f0d6b5fd6468e090b
+Section: Tweaks
+Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部周边-打车-公共交通 | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭 || 1.0.1更新内容：修复一些问题-增加搜索栏移除拍摄按钮(可开关)
+Author: x✨
+Name: 百度地图优化
+
 Package: com.xx.dyhook
 Version: 1.1.8
 Architecture: iphoneos-arm
