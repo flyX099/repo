@@ -192,6 +192,38 @@ Description: 自用 功能默认开启 | 去除启动广告 首页一些无用�
 Author: x✨
 Name: 高德地图优化
 
+Package: com.xx.iboxhook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.iboxhook_1.0.0_iphoneos-arm.deb
+Size: 19730
+MD5sum: e339073f4af3b708ba90b4709edb8bfc
+SHA1: b17f0d64f6d24f01c3536249863ada1b25711b8c
+SHA256: 9e4e4ba45a018524ff4ea2a0c679d8dbbbcf6cc23ddaa1fc484c989e88ab2a0a
+Section: Tweaks
+Description: 自用 | 去除观看广告 | 去除越狱检测 VPN检测 | 仅适配2.0.7 插件仅越狱使用 | 免越狱IPA版本网盘或者QQ群有
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.iboxhook_1.0.0_iphoneos-arm64.deb
+Size: 18858
+MD5sum: 05b091a0044fe7fa01817c0a076a6c75
+SHA1: e77bb1c28ced853c1e83df9299db4a8aeb04888d
+SHA256: 6a44d1e5390e671e6f895c0634e33e04ab448478086773de916a5e9992483b0c
+Section: Tweaks
+Description: 自用 | 去除观看广告 | 去除越狱检测 VPN检测 | 仅适配2.0.7 插件仅越狱使用 | 免越狱IPA版本网盘或者QQ群有
+Author: x✨
+Name: iBoxNoAds
+
 Package: com.xx.jrtthook
 Version: 1.0.3
 Architecture: iphoneos-arm
