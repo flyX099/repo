@@ -193,34 +193,34 @@ Author: x✨
 Name: 高德地图优化
 
 Package: com.xx.iboxhook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 108
+Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.iboxhook_1.0.0_iphoneos-arm.deb
-Size: 19848
-MD5sum: 51d054b4ae6c87c1c7eb9e5f7d25c5bd
-SHA1: 5b4bde1b9d97d7b18e78e2cd18d401ab43d3ffa6
-SHA256: e781a2214d024d4c3b8e5b8fe4e5791194d6867a0d9a4353100646b0a02929b5
+Filename: debs/rootfull/com.xx.iboxhook_1.0.1_iphoneos-arm.deb
+Size: 43426
+MD5sum: 952461c8176be2e4c8a8d3034cdda2c9
+SHA1: 25dcfe25b3ed6c58ec2dbeb0566e2c1e9c052b15
+SHA256: c223defff453e157f990bd6f1168f1526321988221b911dbabbee04d2378c41e
 Section: Tweaks
-Description: 自用 | 去除观看广告 | 去除越狱检测 VPN检测 | 仅适配2.0.7 插件仅越狱使用 | 免越狱IPA版本网盘或者QQ群有
+Description: 自用 | 去除观看广告 | 去除越狱检测 VPN检测 | 仅适配2.0.7 插件仅越狱使用 | 免越狱IPA版本网盘或者QQ群有 || 101更新修短剧听书 现在可跳过广告
 Author: x✨
 Name: iBoxNoAds
 
 Package: com.xx.iboxhook
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 124
+Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.iboxhook_1.0.0_iphoneos-arm64.deb
-Size: 20354
-MD5sum: ab118c359e4f3b77a267b6272bc12c15
-SHA1: a44c528b01f71eb1acec1934def9a0dd559fdc67
-SHA256: bc13e599900fc9786cd2c2c4395d02ba72597ffb86a54a5fe1180a74439a8292
+Filename: debs/rootless/com.xx.iboxhook_1.0.1_iphoneos-arm64.deb
+Size: 42600
+MD5sum: b5ff5b3661250d79f7db47856a66397e
+SHA1: 14dfa4398ab42d4ef7e4af4d98ec6e9ea5b259b6
+SHA256: a7489345e5c90ed93dbf8657c4656f7e7c825aa58a6bfd2ae53946b703fb4dff
 Section: Tweaks
-Description: 自用 | 去除观看广告 | 去除越狱检测 VPN检测 | 仅适配2.0.7 插件仅越狱使用 | 免越狱IPA版本网盘或者QQ群有
+Description: 自用 | 去除观看广告 | 去除越狱检测 VPN检测 | 仅适配2.0.7 插件仅越狱使用 | 免越狱IPA版本网盘或者QQ群有 || 101更新修短剧听书 现在可跳过广告
 Author: x✨
 Name: iBoxNoAds
 
