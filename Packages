@@ -160,6 +160,38 @@ Description: 自用 | 去除一些广告 | 秒过激励视频 | 仅在6.0.8版�
 Author: x✨
 Name: 番茄小说优化
 
+Package: com.xx.fqxshook
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.fqxshook_1.0.1_iphoneos-arm.deb
+Size: 50460
+MD5sum: 5c395c4e0e1b82a07acb875e0c5d9980
+SHA1: d49611c0b6bf9ae1edc536a92df44d693aa9520d
+SHA256: 7a8b34a4733aca45f014a527876bdff95a38821d8481de166150b8fbf00dabcd
+Section: Tweaks
+Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告
+Author: x✨
+Name: 番茄小说优化
+
+Package: com.xx.fqxshook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.fqxshook_1.0.1_iphoneos-arm64.deb
+Size: 51158
+MD5sum: 3a37a3100bccb3d726575d8f24d50e91
+SHA1: 24bc73fcc13a4412c1df08749af273b2b03c313d
+SHA256: 38feac5a4c88a4d5b078344b193d2e69febb7c5cf5cb20ba6e0b59a499c006c5
+Section: Tweaks
+Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告
+Author: x✨
+Name: 番茄小说优化
+
 Package: com.xx.gaodehook
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -321,38 +353,6 @@ Author: x✨
 Name: 皮皮虾优化
 
 Package: com.xx.qmxshook
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 236
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qmxshook_1.0.0_iphoneos-arm.deb
-Size: 43614
-MD5sum: cd07a5f4929d593ba15418e53907f89b
-SHA1: ebadc6ede88b6c7c90333196c3b32b989b25bffa
-SHA256: 3e6a66208ad41058715773c431faf4bfd45c6fa4515b8b919a9a78c09df92290
-Section: Tweaks
-Description: 去除启动广告以及部分广告 | 全部小说阅读内无广告 可用VIP字体 VIP背景 | 部分小说开通免广告权益可用部分会员功能 | 激励视频秒过 | 段评视图增加一个长按关闭手势 | 仅设配7.40版本 | 仅越狱使用
-Author: x✨
-Name: 七猫小说Hook
-
-Package: com.xx.qmxshook
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 252
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qmxshook_1.0.0_iphoneos-arm64.deb
-Size: 44212
-MD5sum: 3c6811b46439cd32bfbebbc293fa2161
-SHA1: cc0c06cb76632c5790d182ce5b0b64d70fb6fe66
-SHA256: 990d029bfed4c51800c7c66e9ac108a8b48cf350ee1ce5cecafa436dca9020fd
-Section: Tweaks
-Description: 去除启动广告以及部分广告 | 全部小说阅读内无广告 可用VIP字体 VIP背景 | 部分小说开通免广告权益可用部分会员功能 | 激励视频秒过 | 段评视图增加一个长按关闭手势 | 仅设配7.40版本 | 仅越狱使用
-Author: x✨
-Name: 七猫小说Hook
-
-Package: com.xx.qmxshook
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -381,6 +381,38 @@ SHA1: f00903dd4b4fc1a68b8ce4a3ff7a140ee4bd0940
 SHA256: c5596c522f6b563d24f808e250add63b3056c1d9467a0fd20762cc5a0acbbd93
 Section: Tweaks
 Description: 自用 | 去除启动广告以及部分广告 | 全部小说阅读内无广告 可用VIP字体 VIP背景 可全本下载 | 部分小说开通免广告权益可用部分会员功能 | 激励视频秒过 | 段评视图增加一个长按关闭手势 | 底部移除福利与分类 | 仅适配7.40版本 | 仅越狱使用
+Author: x✨
+Name: 七猫小说Hook
+
+Package: com.xx.qmxshook
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qmxshook_1.0.2_iphoneos-arm.deb
+Size: 65862
+MD5sum: daeca89c2cf2352a33b32c834c8686f6
+SHA1: 85676baa4c2f64bc2b6c7e44eae5ded85e5ebd90
+SHA256: 1a0fc417f04c89875d743ca91ca4299d7be10e311805d7c0631e6e7563a09f4b
+Section: Tweaks
+Description: 自用 | 去除启动广告以及部分广告 | 全部小说阅读内无广告 可用VIP字体 VIP背景 可全本下载 | 部分小说开通免广告权益可用部分会员功能 | 激励视频秒过 | 段评视图增加一个长按关闭手势 | 底部移除福利与分类 | 仅适配7.40版本 | 仅越狱使用 && 1.0.2：移除阅读时出现的文字判断广告
+Author: x✨
+Name: 七猫小说Hook
+
+Package: com.xx.qmxshook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 300
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qmxshook_1.0.2_iphoneos-arm64.deb
+Size: 66262
+MD5sum: 446919f25c35bedfc952e844fc9084f3
+SHA1: 01303e56b24b6cc0f468f000e9e54c14c1e2d635
+SHA256: 07f42d2ff05d3342adff345a5ac233280cec4ee3133fbeafff09521fa23c1c53
+Section: Tweaks
+Description: 自用 | 去除启动广告以及部分广告 | 全部小说阅读内无广告 可用VIP字体 VIP背景 可全本下载 | 部分小说开通免广告权益可用部分会员功能 | 激励视频秒过 | 段评视图增加一个长按关闭手势 | 底部移除福利与分类 | 仅适配7.40版本 | 仅越狱使用 && 1.0.2：移除阅读时出现的文字判断广告
 Author: x✨
 Name: 七猫小说Hook
 
