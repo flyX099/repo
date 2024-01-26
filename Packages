@@ -164,13 +164,13 @@ Package: com.xx.fqxshook
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 284
+Installed-Size: 300
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.fqxshook_1.0.2_iphoneos-arm.deb
-Size: 52030
-MD5sum: 4f3911b47e3c7ded18a9f2b3f484b181
-SHA1: b25789e6d760db12b1319fb516ccc068940888dd
-SHA256: 570128ce4bf373c741dc6edea3bc98380181b4fbe180b2e781d04f90b6e6eb58
+Size: 53344
+MD5sum: 39396cb876fe3e26e4a5786209f3279f
+SHA1: 129897964123e83c74b16fb298552ef5d4fa84d2
+SHA256: 5f9a951f04156fe9a8c1412df5dd3f07c72ebf18048b615aefe059b178655fc0
 Section: Tweaks
 Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
 Author: x✨
@@ -180,13 +180,13 @@ Package: com.xx.fqxshook
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 268
+Installed-Size: 284
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.xx.fqxshook_1.0.2_iphoneos-arm64.deb
-Size: 48050
-MD5sum: 638ec517c7c4eb324907ea68442a6c19
-SHA1: aeacb613fff9deaed166a88e919e2a556e3001b4
-SHA256: 1e11bf6bc85c9071a5b186fce1ab83afd96a47e5fb030106f479594b37c14d42
+Size: 50730
+MD5sum: 6517dbd92e5fc8faba2d14a6c04c0e22
+SHA1: 58396d9569012ba2fcd6158a4a41cc6a8f7f3175
+SHA256: 98b64345cbaebfa79a6e57f10df83a4a8ca99966d9c0cacddc2dc2a313039f0a
 Section: Tweaks
 Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
 Author: x✨
@@ -646,13 +646,13 @@ Package: com.xx.fqxshook
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 284
+Installed-Size: 300
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.fqxshook_1.0.2_iphoneos-arm.deb
-Size: 52030
-MD5sum: 4f3911b47e3c7ded18a9f2b3f484b181
-SHA1: b25789e6d760db12b1319fb516ccc068940888dd
-SHA256: 570128ce4bf373c741dc6edea3bc98380181b4fbe180b2e781d04f90b6e6eb58
+Size: 53344
+MD5sum: 39396cb876fe3e26e4a5786209f3279f
+SHA1: 129897964123e83c74b16fb298552ef5d4fa84d2
+SHA256: 5f9a951f04156fe9a8c1412df5dd3f07c72ebf18048b615aefe059b178655fc0
 Section: Tweaks
 Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
 Author: x✨
@@ -662,13 +662,13 @@ Package: com.xx.fqxshook
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 268
+Installed-Size: 284
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.xx.fqxshook_1.0.2_iphoneos-arm64.deb
-Size: 48050
-MD5sum: 638ec517c7c4eb324907ea68442a6c19
-SHA1: aeacb613fff9deaed166a88e919e2a556e3001b4
-SHA256: 1e11bf6bc85c9071a5b186fce1ab83afd96a47e5fb030106f479594b37c14d42
+Size: 50730
+MD5sum: 6517dbd92e5fc8faba2d14a6c04c0e22
+SHA1: 58396d9569012ba2fcd6158a4a41cc6a8f7f3175
+SHA256: 98b64345cbaebfa79a6e57f10df83a4a8ca99966d9c0cacddc2dc2a313039f0a
 Section: Tweaks
 Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
 Author: x✨
@@ -1128,13 +1128,13 @@ Package: com.xx.fqxshook
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 284
+Installed-Size: 300
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.fqxshook_1.0.2_iphoneos-arm.deb
-Size: 52030
-MD5sum: 4f3911b47e3c7ded18a9f2b3f484b181
-SHA1: b25789e6d760db12b1319fb516ccc068940888dd
-SHA256: 570128ce4bf373c741dc6edea3bc98380181b4fbe180b2e781d04f90b6e6eb58
+Size: 53344
+MD5sum: 39396cb876fe3e26e4a5786209f3279f
+SHA1: 129897964123e83c74b16fb298552ef5d4fa84d2
+SHA256: 5f9a951f04156fe9a8c1412df5dd3f07c72ebf18048b615aefe059b178655fc0
 Section: Tweaks
 Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
 Author: x✨
@@ -1144,13 +1144,13 @@ Package: com.xx.fqxshook
 Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 268
+Installed-Size: 284
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.xx.fqxshook_1.0.2_iphoneos-arm64.deb
-Size: 48050
-MD5sum: 638ec517c7c4eb324907ea68442a6c19
-SHA1: aeacb613fff9deaed166a88e919e2a556e3001b4
-SHA256: 1e11bf6bc85c9071a5b186fce1ab83afd96a47e5fb030106f479594b37c14d42
+Size: 50730
+MD5sum: 6517dbd92e5fc8faba2d14a6c04c0e22
+SHA1: 58396d9569012ba2fcd6158a4a41cc6a8f7f3175
+SHA256: 98b64345cbaebfa79a6e57f10df83a4a8ca99966d9c0cacddc2dc2a313039f0a
 Section: Tweaks
 Description: 自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 1.0.1 新增移除底部福利板块 移除底部红点 继续移除一些又出现的新广告 & 1.0.2:修底部BUG
 Author: x✨
