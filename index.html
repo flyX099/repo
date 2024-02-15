@@ -3,12 +3,11 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
     <title>添加软件源</title>
-    <link href="css/font-awesome.min.css" rel="stylesheet">
     <style>
         body {
             background-color: #f5f5f5;
             color: #333;
-            font-family: Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             margin: 0;
             padding: 0;
             display: flex;
@@ -22,46 +21,37 @@
             padding: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
+            background-color: white;
         }
 
         h1 {
             font-size: 28px;
-            font-weight: bold;
             margin: 0 0 20px;
         }
 
         .legend {
             font-size: 20px;
-            font-weight: bold;
             margin: 0 0 10px;
         }
 
         .button {
-            display: block;
-            margin: 0 auto;
-            margin-bottom: 10px;
+            display: inline-block;
+            margin: 10px auto;
             padding: 10px 20px;
             font-size: 16px;
             text-decoration: none;
-            outline: none;
-            color: #fff;
-            background-color: #007bff;
-            border: none;
+            color: #007aff;
+            border: solid 2px #007aff;
             border-radius: 15px;
-            box-shadow: 0 7px #0069d9;
+            background-color: transparent;
             cursor: pointer;
-            transition: background-color 0.3s;
-        }
-
-        .button:hover {
-            background-color: #0056b3;
+            transition: background-color 0.3s, color 0.3s;
+            -webkit-tap-highlight-color: transparent;
         }
 
         .button:active {
-            background-color: #007bff;
-            box-shadow: 0 4px #0069d9;
-            transform: translateY(4px);
-            transition: background-color 0s;
+            background-color: #007aff;
+            color: white;
         }
     </style>
 </head>
@@ -72,9 +62,9 @@
             <p class="legend">添加越狱源<span class="fa fa-hand-o-down"></span></p>
             <a href="sileo://source/https://flyx099.github.io/repo/" class="button">Sileo</a>
             <br>
-            <a href="zbra://sources/add/https://flyx099.github.io/repo/" class="button">zebra</a>
+            <a href="zbra://sources/add/https://flyx099.github.io/repo/" class="button">Zebra</a>
             <br>
-            <a href="apt-repo://https://flyx099.github.io/repo/" class="button">saily</a>
+            <a href="apt-repo://https://flyx099.github.io/repo/" class="button">Saily</a>
         </form>
     </div>
 </body>
