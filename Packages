@@ -500,6 +500,38 @@ Description: 自用 | 去除启动广告以及部分广告 | 全部小说阅读�
 Author: x✨
 Name: 七猫小说Hook
 
+Package: com.xx.qqhook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qqhook_1.0.0_iphoneos-arm.deb
+Size: 18080
+MD5sum: eb13c5b097d46444b36c5dd6645422f9
+SHA1: 66b955ebf2adddd399ed2d5b3592fe9f67695890
+SHA256: faa1fb604aff2b075f759e2987da422b7ee595ef5c6e6bc2ae09c884713930e6
+Section: Tweaks
+Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20版本 || 默认开启了模拟机型iPhone 15 Pro Max
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qqhook_1.0.0_iphoneos-arm64.deb
+Size: 17888
+MD5sum: 3d02c97df6df6052f45c988d72025d1b
+SHA1: c06ff22f807638db94f136afe4dec9e6993bd21d
+SHA256: 6f3e3b805e261703fd0569f4c3f0fec8abcd9431952db8b4f4bc7afd2f725be8
+Section: Tweaks
+Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20版本 || 默认开启了模拟机型iPhone 15 Pro Max
+Author: x✨
+Name: QQ新版防撤回
+
 Package: com.xx.qsyyhook
 Version: 1.0.1
 Architecture: iphoneos-arm
