@@ -628,6 +628,38 @@ Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.
 Author: x✨
 Name: QQ新版防撤回
 
+Package: com.xx.qqhook
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qqhook_1.0.2_iphoneos-arm.deb
+Size: 16766
+MD5sum: b16e21f95029e181ec8f659ebfd14a9b
+SHA1: b87ed0ad30dba831bd03586e18874cc3f60604a7
+SHA256: 9baa8e996f21d1f816f3dd45e6c75feadfa0463d05a7212822e773d021df718a
+Section: Tweaks
+Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.25版本 || 默认开启了模拟机型iPhone 15 Pro Max
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qqhook_1.0.2_iphoneos-arm64.deb
+Size: 16986
+MD5sum: 649c4a8f790603b55db96cdc1771def6
+SHA1: 037bb2fcc4064dd405eabb424ec17ba047b288a3
+SHA256: cd89ef893362bf530db8165496951e3049a7ac361e45409559885c9c9c1708b7
+Section: Tweaks
+Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.25版本 || 默认开启了模拟机型iPhone 15 Pro Max
+Author: x✨
+Name: QQ新版防撤回
+
 Package: com.xx.qsyyhook
 Version: 1.0.1
 Architecture: iphoneos-arm
