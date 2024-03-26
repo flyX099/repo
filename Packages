@@ -1,36 +1,4 @@
 Package: com.xx.baiduhook
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 324
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.baiduhook_1.0.0_iphoneos-arm.deb
-Size: 95674
-MD5sum: c0ce2f95ff2a1fc21908cf8d00f82c41
-SHA1: 338a1042486e4e60718fd2d11af2d289f4e966b1
-SHA256: ed24ba37148ed1bb9dc50981e3d2ff80c7c4c544d908f717326ec3147d966577
-Section: Tweaks
-Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部周边-打车-公共交通 | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭
-Author: x✨
-Name: 百度地图优化
-
-Package: com.xx.baiduhook
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 324
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.baiduhook_1.0.0_iphoneos-arm64.deb
-Size: 93708
-MD5sum: c0e33159584c0d11cc1efdb6cff8a207
-SHA1: ee2a930f14f003479064064fd0e800a9b1d9f39e
-SHA256: 7ea463828fa72d00e7667742ef2afb07c9ff2899cdb74e5a57a43b686a12080a
-Section: Tweaks
-Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部周边-打车-公共交通 | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭
-Author: x✨
-Name: 百度地图优化
-
-Package: com.xx.baiduhook
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -63,74 +31,6 @@ Author: x✨
 Name: 百度地图优化
 
 Package: com.xx.dyhook
-Version: 1.1.8
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 1132
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_1.1.8_iphoneos-arm.deb
-Size: 307502
-MD5sum: 3463ee251d8210c82c28fb84d0140dbb
-SHA1: 1ff4d7735d491dc8607472f5198fc43a03bf375d
-SHA256: 22e0935aca393412712403e004eb695cc170307ceef4fa8f4fedbd0ef24a10bb
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.1.8
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 1168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_1.1.8_iphoneos-arm64.deb
-Size: 318396
-MD5sum: 9f497f32b5766f90d229ca2ae6ac9fdc
-SHA1: cdd81f79f051eccecee51009cce723ac4327ce03
-SHA256: fc04643d7726074cbcbabfe379418ddc19e0a8c89004363b073d62b5ae581754
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.1.9
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 1252
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_1.1.9_iphoneos-arm.deb
-Size: 341082
-MD5sum: 6731dabda3e94ef696bb4985183930b8
-SHA1: 0ef0c278a0ee11b4ae1b7e2073398b2be61a1a93
-SHA256: 3b5f9662ea4d27c9eac089b312323436612c0b4de7152129836a88383182751a
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.1.9
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 1284
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_1.1.9_iphoneos-arm64.deb
-Size: 353734
-MD5sum: 9fb4fd2ca11d7e1097e6323de7f43da5
-SHA1: 776ccf1f3dc10cd19e28e77bc2dca85d514f3e3d
-SHA256: 08c3472eae469de9c2ce6c2b9a99457b040e0e566adfebb08ecfc663be1a0175
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
 Version: 1.1.9-1
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -160,6 +60,40 @@ SHA1: 246f903bf52125ad843f698ad0f156468cb405a1
 SHA256: c8b9a7c5cd683f390ea3e4bf8f554361a13b639184faa3ea8a559e26a4142dfd
 Section: Tweaks
 Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dyhook_1.2.1_iphoneos-arm.deb
+Size: 363350
+MD5sum: 546f89d2f83f21fc657f6d58b8e52c2f
+SHA1: 2c86d7a3182bdb1063b67a59848997e2634aa7ce
+SHA256: a58920c0d9508d109e41b709bc11da306b9142e165dff26382ccae0a05864aa7
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1328
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dyhook_1.2.1_iphoneos-arm64.deb
+Size: 364352
+MD5sum: c237c722ec52f65a66ecbc87fa6be6f3
+SHA1: c870af229a9cd217ee52d0720a2820413b6538b8
+SHA256: 105aa04dfefe73555e4d3373137028160e79b924d23ae84f7995384b603e99c9
+Section: Tweaks
+Description: 自用
 Author: x✨
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
@@ -229,54 +163,6 @@ Author: x✨
 Name: 高德地图优化
 
 Package: com.xx.iboxhook
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 156
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.iboxhook_1.0.2_iphoneos-arm.deb
-Size: 33390
-MD5sum: 739c879635d87c114dcdf083e7d38c77
-SHA1: bdf69c129d49727355f502228fa4a33f1495dc04
-SHA256: ec1d90a33c7e9d44fe1831bbb9047b9a727dad5b2e8c87b0ee0e400f5c0a20df
-Section: Tweaks
-Description: 自用 | 广告一闪而过 | 去除一些检测 VPN检测等 | 仅适配2.0.8 插件仅越狱使用
-Author: x✨
-Name: iBoxSkipAds
-
-Package: com.xx.iboxhook
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 156
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.iboxhook_1.0.2_iphoneos-arm64.deb
-Size: 35138
-MD5sum: 2991239bc08de758b63b2f88d061823d
-SHA1: ad8f2857d04ac74b5eab0e7ce112e7804e7d73c8
-SHA256: 61b84de0f9f9fb54bfe072267b84370203ce633c4f2c21fd500ce8412ea063b6
-Section: Tweaks
-Description: 自用 | 广告一闪而过 | 去除一些检测 VPN检测等 | 仅适配2.0.8 插件仅越狱使用
-Author: x✨
-Name: iBoxSkipAds
-
-Package: com.xx.iboxhook
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 156
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.iboxhook_1.0.3_iphoneos-arm64.deb
-Size: 30760
-MD5sum: 98680243321df5fd0486953131e99e06
-SHA1: 5bf0e96f1165a18e018a04345ce892b4f4be445e
-SHA256: 747e924e15266eeb3e76ec2737b39d9d83d56abf9bcb79f48d5b107eaafddd35
-Section: Tweaks
-Description: 自用 | 仅看剧无广告 无去除任何检测(短剧听书没做 本人不用) | 仅越狱使用 仅209版本
-Author: x✨
-Name: iBoxNoAds
-
-Package: com.xx.iboxhook
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -307,38 +193,6 @@ Section: Tweaks
 Description: 自用 | 看剧短剧听书无广告 无去除任何检测 | 仅越狱使用 仅支持210版本
 Author: x✨
 Name: iBoxNoAds
-
-Package: com.xx.jrtthook
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 644
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.jrtthook_1.0.3_iphoneos-arm.deb
-Size: 178070
-MD5sum: e64d732497191bac4d792d0e12b95f4e
-SHA1: 2c10e8a4b1fba71ea0d232f971768b31aff2f2ae
-SHA256: 91c59d2aa95e6a44ff9bd5a72ca52e24a9208b0ad3e80c90e07495875cabae22
-Section: Tweaks
-Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.3更新内容：修复移除底部bug
-Author: x✨
-Name: 今日头条Hook
-
-Package: com.xx.jrtthook
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 644
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.jrtthook_1.0.3_iphoneos-arm64.deb
-Size: 177760
-MD5sum: d03367d064268ea090e6e73e73dd4f12
-SHA1: 88a412ca7b6973cbea1ae78099f479a14fc26194
-SHA256: f80ed5da881055ce3e914e224364ebc35d0e9aeb3feaa5122f55bd70cf20c715
-Section: Tweaks
-Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.3更新内容：修复移除底部bug
-Author: x✨
-Name: 今日头条Hook
 
 Package: com.xx.jrtthook
 Version: 1.0.4
@@ -404,37 +258,37 @@ Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功�
 Author: x✨
 Name: 快手Hook
 
-Package: com.xx.ppxhook
+Package: com.xx.kshook
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 372
+Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.ppxhook_1.0.5_iphoneos-arm.deb
-Size: 107186
-MD5sum: 9a1158ef5a6546341e7fc0e3fce13fef
-SHA1: 18bc3ac6e2e17aba4a1ddc8929934f5ae42d7b86
-SHA256: 3e6d53e685ec68b93244f0ba28113af9db040a6c0ec81d2e92b5f75965f25831
+Filename: debs/rootfull/com.xx.kshook_1.0.5_iphoneos-arm.deb
+Size: 186374
+MD5sum: a4834f65e22432bb308fa7cc37afdcaf
+SHA1: ba66d2414cc5471d8b60e2176a5a5602e30002c2
+SHA256: 5d004028a7a7321bf9f0470abff3b1cb8034c357d1ed068ea7b3b196482673ca
 Section: Tweaks
-Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.5更新内容:修复某些板块无法加载问题
+Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能:移除一些广告,弹窗,无水印保存视频图片
 Author: x✨
-Name: 皮皮虾优化
+Name: 快手Hook
 
-Package: com.xx.ppxhook
+Package: com.xx.kshook
 Version: 1.0.5
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 372
+Installed-Size: 676
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.ppxhook_1.0.5_iphoneos-arm64.deb
-Size: 108738
-MD5sum: 61ddaa7d4a494b2cd377d43491de26f3
-SHA1: cfa0bf969067af18edb7ee9e8ae59012a7ad3208
-SHA256: 8f225dd707fb8dfce01cfca1f62d795db4c12a0dda512a08f7a5c22969924aee
+Filename: debs/rootless/com.xx.kshook_1.0.5_iphoneos-arm64.deb
+Size: 190326
+MD5sum: 8ed469ca9cfa8168e7c5288560e1c82a
+SHA1: d2f1c0c84634e0806008eb2f471cefdba1149910
+SHA256: 4de8f7f18d6a9162ec2d7b33a8b0cc26479721d85045c334806a6cc08ba8c413
 Section: Tweaks
-Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.5更新内容:修复某些板块无法加载问题
+Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能:移除一些广告,弹窗,无水印保存视频图片
 Author: x✨
-Name: 皮皮虾优化
+Name: 快手Hook
 
 Package: com.xx.ppxhook
 Version: 1.0.6
@@ -465,6 +319,38 @@ SHA1: 341c56d6de62a0cd32b50f4e3d8fd38817ca8a7f
 SHA256: 523033c720546fc94a801cabcb47831bc73c828204ccc6b9a969c56af21cdd86
 Section: Tweaks
 Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.6更新内容:修部分无下载按钮的视频 收藏后可以去我的收藏里保存无水印
+Author: x✨
+Name: 皮皮虾优化
+
+Package: com.xx.ppxhook
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.ppxhook_1.0.7_iphoneos-arm.deb
+Size: 100774
+MD5sum: f537ab108f992f89f0f6e472b6f95cd6
+SHA1: 441ec31b9cce58ff2cc175a2bbf8d7eb75f4598e
+SHA256: 6afc212638c6e766364c74d307dbbcba7c3d3c371410f1d725a4b49bdec2e84a
+Section: Tweaks
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.7更新内容:修复一些问题
+Author: x✨
+Name: 皮皮虾优化
+
+Package: com.xx.ppxhook
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.ppxhook_1.0.7_iphoneos-arm64.deb
+Size: 101436
+MD5sum: c58f90d3418b34938691a289ab5fe6ce
+SHA1: 7d99ab18105eca13d674805e298a6b49b5a40ff6
+SHA256: 15a0c23c50b2ebdca7fa9996e4e79eed7787f444242c3e30828b3828a8436291
+Section: Tweaks
+Description: 自用 | 去除一些广告 | 原始按钮保存视频-图片无水印 | 底部板块的自定义移除 | 在 '右下角我的-设置界面长按1-2秒出菜单' || 1.0.7更新内容:修复一些问题
 Author: x✨
 Name: 皮皮虾优化
 
@@ -501,38 +387,6 @@ Author: x✨
 Name: 配音鹅会员
 
 Package: com.xx.qmxshook
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 300
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qmxshook_1.0.1_iphoneos-arm.deb
-Size: 52696
-MD5sum: 61e90f1d5eb19b3bf4e7bf19a25dddf9
-SHA1: d2656b976ed5c778491eccdde54395844e5508a2
-SHA256: 48495c34f07baa80ab4392c7788acdb065b0da5fbb3a91d09f97ce2a8cebae63
-Section: Tweaks
-Description: 自用 | 去除启动广告以及部分广告 | 全部小说阅读内无广告 可用VIP字体 VIP背景 可全本下载 | 部分小说开通免广告权益可用部分会员功能 | 激励视频秒过 | 段评视图增加一个长按关闭手势 | 底部移除福利与分类 | 仅适配7.40版本 | 仅越狱使用
-Author: x✨
-Name: 七猫小说Hook
-
-Package: com.xx.qmxshook
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 300
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qmxshook_1.0.1_iphoneos-arm64.deb
-Size: 54246
-MD5sum: e84b33ef8393b2ce302ae3a0d93f0c01
-SHA1: f00903dd4b4fc1a68b8ce4a3ff7a140ee4bd0940
-SHA256: c5596c522f6b563d24f808e250add63b3056c1d9467a0fd20762cc5a0acbbd93
-Section: Tweaks
-Description: 自用 | 去除启动广告以及部分广告 | 全部小说阅读内无广告 可用VIP字体 VIP背景 可全本下载 | 部分小说开通免广告权益可用部分会员功能 | 激励视频秒过 | 段评视图增加一个长按关闭手势 | 底部移除福利与分类 | 仅适配7.40版本 | 仅越狱使用
-Author: x✨
-Name: 七猫小说Hook
-
-Package: com.xx.qmxshook
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -565,70 +419,6 @@ Author: x✨
 Name: 七猫小说Hook
 
 Package: com.xx.qqhook
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 188
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.0.0_iphoneos-arm.deb
-Size: 18080
-MD5sum: eb13c5b097d46444b36c5dd6645422f9
-SHA1: 66b955ebf2adddd399ed2d5b3592fe9f67695890
-SHA256: faa1fb604aff2b075f759e2987da422b7ee595ef5c6e6bc2ae09c884713930e6
-Section: Tweaks
-Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20版本 || 默认开启了模拟机型iPhone 15 Pro Max
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 188
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.0.0_iphoneos-arm64.deb
-Size: 17888
-MD5sum: 3d02c97df6df6052f45c988d72025d1b
-SHA1: c06ff22f807638db94f136afe4dec9e6993bd21d
-SHA256: 6f3e3b805e261703fd0569f4c3f0fec8abcd9431952db8b4f4bc7afd2f725be8
-Section: Tweaks
-Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20版本 || 默认开启了模拟机型iPhone 15 Pro Max
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 300
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.0.1_iphoneos-arm.deb
-Size: 32448
-MD5sum: 8d0b5e6a437c56d80fa2f8886ae09ac4
-SHA1: 66ba54e155a2a7b5e2e83da6406253d196fa1070
-SHA256: 15a1a1b92c4afd658a48f77fb3d0bbbcdb4ba6655c7806b69c502d3d9dc57198
-Section: Tweaks
-Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.21版本 || 默认开启了模拟机型iPhone 15 Pro Max
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 300
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.0.1_iphoneos-arm64.deb
-Size: 37374
-MD5sum: 16f45b58e33c2697da9f92b87067d5f7
-SHA1: ff2354423f931c214bc2db48e0a5c29296160c8f
-SHA256: 2bd2d982b5303269ea8150d0df753dea78b74a2a51c0578d8b0f2c296876ec4a
-Section: Tweaks
-Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.21版本 || 默认开启了模拟机型iPhone 15 Pro Max
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -657,6 +447,38 @@ SHA1: 037bb2fcc4064dd405eabb424ec17ba047b288a3
 SHA256: cd89ef893362bf530db8165496951e3049a7ac361e45409559885c9c9c1708b7
 Section: Tweaks
 Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.25版本 || 默认开启了模拟机型iPhone 15 Pro Max
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qqhook_1.0.3_iphoneos-arm.deb
+Size: 17082
+MD5sum: 362dcf75372ac1ee3b4fc2e346bfe1a6
+SHA1: ab2a3a77a216b5fb177000c3a3843bac0b4232b3
+SHA256: 375c9ed3b5d2fcd9da3e9326e728792d1638a3710e34b75f89af0612c3988298
+Section: Tweaks
+Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.28版本 || 默认开启了模拟机型iPhone 15 Pro Max
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qqhook_1.0.3_iphoneos-arm64.deb
+Size: 16876
+MD5sum: 6b2a65a0f59f127bef4d60217e0b3002
+SHA1: acafb9a49bfbd26210904b41ccd82c49e22b3bcc
+SHA256: b7bd0c391581bb4b5a50c6e1c72c352666210c708b2d0b68a6b8fe14308fa80e
+Section: Tweaks
+Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.28版本 || 默认开启了模拟机型iPhone 15 Pro Max
 Author: x✨
 Name: QQ新版防撤回
 
@@ -693,66 +515,34 @@ Author: x✨
 Name: 汽水音乐NoAds
 
 Package: com.xx.xhshook
-Version: 1.0.5
+Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 392
+Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.0.5_iphoneos-arm.deb
-Size: 112576
-MD5sum: 8c901fe7b4aa2e115cd284b67547adcc
-SHA1: df00ae97b2f77e3f8ffd6b906121095f06125f48
-SHA256: eb47062b73b6da818f5944bc8d11c0753544cb44fee04fde5a27855a0335759f
+Filename: debs/rootfull/com.xx.xhshook_1.0.7_iphoneos-arm.deb
+Size: 107538
+MD5sum: dbee117460e0f81aee2e3a28d43e6816
+SHA1: d9f98bf92fbaead3c3c4ee77de1dffc14df42751
+SHA256: 5dc28ed3dd8373a08289e6d3fb06426bdb37863af4b9b5cfdacc74a26d09276a
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 | 1.0.5更新内容：首页广告移除 | 一些检测优化
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.7更新内容：修复一些问题
 Author: x✨
 Name: 小红薯调整
 
 Package: com.xx.xhshook
-Version: 1.0.5
+Version: 1.0.7
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 392
+Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.0.5_iphoneos-arm64.deb
-Size: 113150
-MD5sum: 4e8c7501dd6c7f9d3d90781c1988791b
-SHA1: 5d6f66457894942babf83a10c358bcc777bceb20
-SHA256: 675025342ff829aee9155b7631bc5c787a4b39b178156497ef89e4019efa1b7e
+Filename: debs/rootless/com.xx.xhshook_1.0.7_iphoneos-arm64.deb
+Size: 107652
+MD5sum: 0409befb8a4d6a112b618dca3ba03fff
+SHA1: ddef3dc1b2ba73fb5caff310decc20bfc1b56b70
+SHA256: 690fbf54db7ba56ac0f582ff591e5541bec623ea6a8b35b1b11badc939ba1698
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 | 1.0.5更新内容：首页广告移除 | 一些检测优化
-Author: x✨
-Name: 小红薯调整
-
-Package: com.xx.xhshook
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 460
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.0.6_iphoneos-arm.deb
-Size: 123616
-MD5sum: 8b0c689649508bba368cc3a322be7702
-SHA1: 7b316266b6ec88a79a9a69c4407e6ad558ed6c60
-SHA256: c6ff9503665d61bee84ba9cadc99348566aaa76f5bea25e0aec49450c02d87ea
-Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.6更新内容：修复8.27+版本图文文案无法复制问题
-Author: x✨
-Name: 小红薯调整
-
-Package: com.xx.xhshook
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 476
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.0.6_iphoneos-arm64.deb
-Size: 124578
-MD5sum: a7407b541bbd6ea1b99e90337368125e
-SHA1: 7a429e6e1cdf5b702b31059c22cadfe3d82fa7e1
-SHA256: 6e90eac39809f01ed79279e6d6760fb4d823fe92c903f244127de60d5c682275
-Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.6更新内容：修复8.27+版本图文文案无法复制问题
+Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.7更新内容：修复一些问题
 Author: x✨
 Name: 小红薯调整
 
