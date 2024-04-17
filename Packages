@@ -98,6 +98,40 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.dyhook
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1688
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dyhook_1.2.3-1_iphoneos-arm.deb
+Size: 445836
+MD5sum: 172dd1149e8138a47daf3db63c83d447
+SHA1: ab511eff22f3b8cf29880c13ba828fb457f3a321
+SHA256: 05da4e827b6b1c23be3db92c4914ff6ca3db021108f2036fe1f4302a8a04aa09
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.3-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1672
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dyhook_1.2.3-1_iphoneos-arm64.deb
+Size: 440506
+MD5sum: fc0b2f8f70fedb984c73cdd5f0b6a6c5
+SHA1: ebbb873c281c88f863fccd612616563683e81ac5
+SHA256: 9e641b71fba3347d8bf63e8812db83810f6a483bb59258a640680b4ba669e422
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: com.xx.ecnyhook
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -191,6 +225,38 @@ SHA1: 71f895c754377f145e7bfd2df7f4197483ad2d98
 SHA256: 07da65f00e1dc6dbdd26620511c10ab1fe7c08eeb648352a4c77ebd7635677ef
 Section: Tweaks
 Description: 自用 | 看剧短剧听书无广告 无去除任何检测 | 仅越狱使用 仅支持210版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.iboxhook_1.0.5_iphoneos-arm.deb
+Size: 21074
+MD5sum: 565819251af5b5f96962a75c38b3208f
+SHA1: c7e8424e8c56d695cbc5d08979be802b05217880
+SHA256: a108a1d6682d56f9c4d918d100973c2dc263ee7cb72801b7e9e845d0555662fa
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 无广告 无去除任何检测 | 仅越狱使用 仅支持212版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.iboxhook_1.0.5_iphoneos-arm64.deb
+Size: 20478
+MD5sum: 010802fbaaf8ccc8b62b64f4ec605185
+SHA1: e0b3c5db03e4b23c48a40bcfd4c1eb0cafb0dab4
+SHA256: ad76660c0b0f9f722ca38db241c7375d2e1aa84c3e0a7f4558a67479ab3a1e5b
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 无广告 无去除任何检测 | 仅越狱使用 仅支持212版本
 Author: x✨
 Name: iBoxNoAds
 
@@ -447,6 +513,38 @@ SHA1: c2611e108773d03d14bb401431a7467f4e5144dc
 SHA256: 91f7038020f516820e7e90d57d5dbfda4830e83b4cd435cc717ca007e636301c
 Section: Tweaks
 Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.30版本 || 默认开启了模拟机型iPhone 15 Pro Max
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qqhook_1.0.5_iphoneos-arm.deb
+Size: 18600
+MD5sum: a8936911acd162412477178d50698dd9
+SHA1: c2487bdbc9f855866a3a8399325c7d84ba749960
+SHA256: 8c2d0f7e03e13204f2b90ad0f6b2ed0f78b138010dc9f51d9c207f5a444149d9
+Section: Tweaks
+Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.35版本 || 默认开启了模拟机型iPhone 15 Pro Max
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qqhook_1.0.5_iphoneos-arm64.deb
+Size: 18244
+MD5sum: 693b99adeb94ea178c0c6086c175a7c9
+SHA1: cfcd1304fe51079cf76c6d97e23356fc6943f1a8
+SHA256: 75d0527b19e2accada928b0c4d80e309221e9c52a1300322b84c8fe76a536e6c
+Section: Tweaks
+Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.35版本 || 默认开启了模拟机型iPhone 15 Pro Max
 Author: x✨
 Name: QQ新版防撤回
 
