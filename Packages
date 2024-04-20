@@ -173,10 +173,10 @@ Maintainer: x✨
 Installed-Size: 1720
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.dyhook_1.2.5_iphoneos-arm.deb
-Size: 453616
-MD5sum: ec058af548817cc36171d2dd906eb9da
-SHA1: 116d673f75272de7aee65a79c07c84e7b20b690c
-SHA256: f31fd88a98a887d4d3dc2a88b6624de126b441ea63b4c4ba3536b25d567c275e
+Size: 456684
+MD5sum: ea9c284a701e289abf3d107c2dcace37
+SHA1: 7314f9a9140a57c52e485d884f335387d477e5d8
+SHA256: d6ee48346c22b575946135fd0de4dada44685181a293b7358baa21d3aa7a047c
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -190,10 +190,10 @@ Maintainer: x✨
 Installed-Size: 1736
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.xx.dyhook_1.2.5_iphoneos-arm64.deb
-Size: 459822
-MD5sum: dc1607bd8648bcdf9b912d1f3f1ac67c
-SHA1: 09674b842a90980f612cca8d36f3730d016098d3
-SHA256: 92c331d61884fd094935a5150e12a0d896c5cb6ba24b55d44b175af90818813a
+Size: 458466
+MD5sum: 2fbd9dd6098594d033e7de6a7424529d
+SHA1: 6d291c7891b9a8acdbe09b34bb12e133bea4026f
+SHA256: 87a6776759db462267a224a4b3a7c6a63f80a21217b21057a5adc6166671ec3f
 Section: Tweaks
 Description: 自用
 Author: x✨
