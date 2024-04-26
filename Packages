@@ -489,10 +489,10 @@ Maintainer: x✨
 Installed-Size: 484
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.qqhook_1.0.7_iphoneos-arm.deb
-Size: 114920
-MD5sum: e7a468b887955ac39425107fbbd758cc
-SHA1: 95e9d61bed123fa40ddbd533d10e061eb5b28dcb
-SHA256: 49ed56061e303ba52e5fbce404684a175e0efb3815d960f97f96620b7e304578
+Size: 117570
+MD5sum: 1e6a6508ba077ea38085789491b05b21
+SHA1: 5aa272d960cc6a7d9287d723bd1e9520ddfc54ef
+SHA256: 35a64c6e15e827e8582399bce9183a9398ea0b16b92b903ebe0d38cd70684bfe
 Section: Tweaks
 Description: QQ设置右上角开启 支持9.0.20+
 Author: x✨
