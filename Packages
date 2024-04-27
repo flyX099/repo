@@ -65,16 +65,16 @@ Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.dyhook
-Version: 1.2.5-1
+Version: 1.2.5-2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 1784
+Installed-Size: 1752
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_1.2.5-1_iphoneos-arm.deb
-Size: 468832
-MD5sum: 6b7ab5979d901b5073042c408b19c81e
-SHA1: 47c771c7f45f97f1cc5d5160d8fc02c4c5a6832d
-SHA256: a11b5e33cd8118796f5faf4698fb4526663bea278176ea9cab4d8d7fa6d391d9
+Filename: debs/rootfull/com.xx.dyhook_1.2.5-2_iphoneos-arm.deb
+Size: 458192
+MD5sum: c87a976c2f524c672184bba07e508fe7
+SHA1: f66b75929d3dc668b2a1676079fd37cc60cbf43e
+SHA256: 33147f26cdb728b5c38362be0e71d2de6aec10678141096804b575cde5a182fc
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -82,16 +82,16 @@ Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.dyhook
-Version: 1.2.5-1
+Version: 1.2.5-2
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 1768
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_1.2.5-1_iphoneos-arm64.deb
-Size: 463404
-MD5sum: 7aa59b41720fb68d8a37633623ecfc39
-SHA1: c416c532a7a92cbcee2ac792cadbf4e434e807b9
-SHA256: acc2003dd68d5660ed5131e5a5e302ec0c77170a8f49232d32052cb0f438de9e
+Filename: debs/rootless/com.xx.dyhook_1.2.5-2_iphoneos-arm64.deb
+Size: 463736
+MD5sum: 7d0f0cb08def312f939ac9c4a79d795b
+SHA1: 0fc15636950d3cde2b43d11ddfb6af414651c61f
+SHA256: 8f81393de2a8ef6643f622f6d6f9ca1b1c282bab45801e19a7acc93c17d6869c
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -225,6 +225,38 @@ Section: Tweaks
 Description: 自用 | 看剧 短剧 漫画 听书 无广告 无去除任何检测 | 仅越狱使用 仅支持212版本
 Author: x✨
 Name: iBoxNoAds
+
+Package: com.xx.intolivehook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.intolivehook_1.0.0_iphoneos-arm.deb
+Size: 51754
+MD5sum: e8902bbcf728f75d9da0018016ca77f4
+SHA1: 5d4dd67fd0bd87adf6dcbc63b156057a1e85fc57
+SHA256: ef0ad0bf7cfa511a656df09d5285e4d6acf2616585de7f6179c53c0e8fa5fc40
+Section: Tweaks
+Description: intolivePro
+Author: x✨
+Name: intolivePro
+
+Package: com.xx.intolivehook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.intolivehook_1.0.0_iphoneos-arm64.deb
+Size: 52618
+MD5sum: 820ede5a3e6984f5ba513724d4be5ac9
+SHA1: e372128e2d44989edeb3b016d1d4613240c3ee9e
+SHA256: 6754f5ab8e63bc2697362a44aafc4b6d5a3a4b3a377763f9ddcec2871e3d94e5
+Section: Tweaks
+Description: intolivePro
+Author: x✨
+Name: intolivePro
 
 Package: com.xx.jrtthook
 Version: 1.0.4
@@ -543,6 +575,38 @@ SHA1: 9b5f493154885508dd08125b5f65a5ffd8486045
 SHA256: 41406cd30d9d587ebef375d58cb00dfdc6a4ceb4caf43701ccdd913dd373d746
 Section: Tweaks
 Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(部分视频自动关闭) 1.0.1更新：优化去除启动广告 秒过视频如果无效可以APP设置界面长按1秒关闭(本人新号会员无法调试)
+Author: x✨
+Name: 汽水音乐NoAds
+
+Package: com.xx.qsyyhook
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qsyyhook_1.0.2_iphoneos-arm.deb
+Size: 12400
+MD5sum: 8cb03b7460850d9011597f10325bbde8
+SHA1: aa0cde896defbb035b7a522bb26cb177707fc0f8
+SHA256: 7e13416af17a72f354202d34bf81ce2e7613ef7d80f78dddb0c0aba70d1742bf
+Section: Tweaks
+Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(自行测试是否可用 不能用就在设置界面长按可以关闭或者卸载此插件)
+Author: x✨
+Name: 汽水音乐NoAds
+
+Package: com.xx.qsyyhook
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qsyyhook_1.0.2_iphoneos-arm64.deb
+Size: 12264
+MD5sum: 21243f467303d4bcef3ba3af20220a83
+SHA1: 762ab9156229a18534a3ef591a19d5eb572525cd
+SHA256: 821bf6292ce2db379df1ebe659f511936c3e12ae9ffa4ea4b019053eea7b875d
+Section: Tweaks
+Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(自行测试是否可用 不能用就在设置界面长按可以关闭或者卸载此插件)
 Author: x✨
 Name: 汽水音乐NoAds
 
