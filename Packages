@@ -98,6 +98,40 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.dyhook
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1832
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dyhook_1.2.6_iphoneos-arm.deb
+Size: 637978
+MD5sum: 9db00af03db3d6454293f6488fb06600
+SHA1: 75e2e701cb3447dbeb26bbbbabbea781cb423e24
+SHA256: 68b8514d19a5157e3b2f9f1a469cbc4ca0d41645c6f130dd51824982e3f0213a
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1816
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dyhook_1.2.6_iphoneos-arm64.deb
+Size: 628876
+MD5sum: c450baf3c9b3c0027f6e249a936c9428
+SHA1: 73ed2225cee89391f68e20be793bd3d32c0e7af5
+SHA256: 8b1eae7d41d16f321312849edccd1e2d637e977a6db1506efa12aeb5e78d5b35
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: com.xx.ecnyhook
 Version: 1.0.2
 Architecture: iphoneos-arm
