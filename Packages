@@ -517,70 +517,6 @@ Author: x✨
 Name: 七猫小说Hook
 
 Package: com.xx.qqhook
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.0.6_iphoneos-arm.deb
-Size: 18418
-MD5sum: 29e4232f6389fcacca38703a24c9d8a0
-SHA1: 03402360b316f060287f6ad36822be06d8a76e59
-SHA256: 1493f71cf205fa92302cf1f69723723c4eaa2ad006a389de9c6b3e949eae8912
-Section: Tweaks
-Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.36版本 || 默认开启了模拟机型iPhone 15 Pro Max
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.0.6_iphoneos-arm64.deb
-Size: 18402
-MD5sum: 977cd570879aac784863dfdb7fe2c96a
-SHA1: bd5a63c9473fd57c4887c759ec0eac23139d94f7
-SHA256: 7f07b2bcb04fd3d95badcf2cad5a7a7843622ed2cf6c688feceafe223e7d7f7a
-Section: Tweaks
-Description: 默认开启 无撤回提示 仅越狱使用 仅支持9.0.20 - 9.0.36版本 || 默认开启了模拟机型iPhone 15 Pro Max
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.0.7
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 484
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.0.7_iphoneos-arm.deb
-Size: 117570
-MD5sum: 1e6a6508ba077ea38085789491b05b21
-SHA1: 5aa272d960cc6a7d9287d723bd1e9520ddfc54ef
-SHA256: 35a64c6e15e827e8582399bce9183a9398ea0b16b92b903ebe0d38cd70684bfe
-Section: Tweaks
-Description: QQ设置右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.0.7
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 488
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.0.7_iphoneos-arm64.deb
-Size: 115790
-MD5sum: c1a383edaee2b658f43554fefec1c65d
-SHA1: 3ab10a18e4e2ef836b49180f766725cd6bc6bdcf
-SHA256: 7bd5a149c1285a3a7c9287fcd9aa1c286c4b6d506100252e5d986b916126e040
-Section: Tweaks
-Description: QQ设置右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
 Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -609,6 +545,38 @@ SHA1: b9be7dc8f5e344af0ef032202fdc83c074fee068
 SHA256: 9d3dc02a748dbe094e38f49432745c150d2f1cc94d955fa21e011a3ccec74e9b
 Section: Tweaks
 Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qqhook_1.0.9_iphoneos-arm.deb
+Size: 163604
+MD5sum: 802ee9dcad5ebbaa550a213747d83e18
+SHA1: ded254c7d4bc65eaeee7618252cfbe042fbdb659
+SHA256: 4bda226606db97ba9e9ac3bcec869026354b69501eeb131690e27153183945d3
+Section: Tweaks
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+ | 109更新：闪照无限看(越狱) 保存闪照 禁止闪照截屏录屏检测
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qqhook_1.0.9_iphoneos-arm64.deb
+Size: 162360
+MD5sum: 328ddde2930e3651054fc1efb22b6868
+SHA1: 8dbe9b84fe0b93adf1cc6c7cf24c7c0f4f0ab01e
+SHA256: 404429321e73c976a79f0ae3629d9b104c46f670e72c76b91e08823704678f70
+Section: Tweaks
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+ | 109更新：闪照无限看(越狱) 保存闪照 禁止闪照截屏录屏检测
 Author: x✨
 Name: QQ新版防撤回
 
