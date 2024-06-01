@@ -63,16 +63,16 @@ Author: x✨
 Name: 百度地图优化
 
 Package: com.xx.dyhook
-Version: 1.2.6-2
+Version: 2.0.0
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 2168
+Installed-Size: 2428
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_1.2.6-2_iphoneos-arm.deb
-Size: 789244
-MD5sum: 415c6a0d81a4a66a1b5319e5c9994617
-SHA1: 4b581827c9be0a4abd8c59b32a2a351528d68bd0
-SHA256: 4b140b26fe3105a448f40eb14c989e4bc3655746700a6b07b00fc9b2ecb78630
+Filename: debs/rootfull/com.xx.dyhook_2.0.0_iphoneos-arm.deb
+Size: 879676
+MD5sum: ac8177c58ac9491c521709028d9e74f5
+SHA1: deaf8c8945caedf64377e1d95cfc850cf5b2b189
+SHA256: 129337fb187c3125936038f6345f0ab8ea2d5fc45a1ef8fadd8a16034ba450e1
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -80,50 +80,16 @@ Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.dyhook
-Version: 1.2.6-2
+Version: 2.0.0
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 2200
+Installed-Size: 2428
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_1.2.6-2_iphoneos-arm64.deb
-Size: 794422
-MD5sum: 02d2402fa703bdbc21419e212729f885
-SHA1: 1e7052f1b5a9949ffeb99e6dc2a2bf226e6ef73d
-SHA256: b9a03c5104faec43d2f6f157c669f4364e0bab16f90e3c5a66030483dc6617c3
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.2.6-3
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 2232
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_1.2.6-3_iphoneos-arm.deb
-Size: 813110
-MD5sum: 3e6f216e98057f8d14b3ecd5b11761ff
-SHA1: bf0b76b6245c222fc71ac1440d5063c8efac87fb
-SHA256: f070229e1260ae32d5a43b5224195f6be2718b3dc2eddc3ef61abdd090db62c4
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.2.6-3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 2200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_1.2.6-3_iphoneos-arm64.deb
-Size: 811616
-MD5sum: 8670d89ba8e2d5fc6652cb882b410ece
-SHA1: fbe657b278a728258e1c30a5f55dfa5b36857ee7
-SHA256: d94994d681d308b5f4da821afd25dc94164646a0bfa6b11072a93cd0e25e2bc2
+Filename: debs/rootless/com.xx.dyhook_2.0.0_iphoneos-arm64.deb
+Size: 885142
+MD5sum: d21e7a218653327e67ea90ba01861b21
+SHA1: 19ba66605c4d7550310c86ae5337866789de2531
+SHA256: ee5e2e195e88cd8696f46321c3db82fcebc682c4932fed8289bf6b0ea5379ce4
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -323,34 +289,34 @@ Author: x✨
 Name: 今日头条Hook
 
 Package: com.xx.kshook
-Version: 1.0.5-1
+Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 448
+Installed-Size: 1180
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.kshook_1.0.5-1_iphoneos-arm.deb
-Size: 168516
-MD5sum: 43f67ea37a5cbc8c67c379f4c1febd42
-SHA1: 150c2fc6b8febeaa3b0081487e7f15a762044062
-SHA256: 3d6ddb36421e6899a0cd2c71325e77688622436cf7638d5eb9d4f266a37175a8
+Filename: debs/rootfull/com.xx.kshook_1.0.6_iphoneos-arm.deb
+Size: 470516
+MD5sum: e8ea68dd596740a1296ec7a3818221dc
+SHA1: d12b21683a60fc977cf479e6e96f89a1a177055d
+SHA256: 0295c3465115ea57f1f543cb6fcbd66e814d19c5d948f025222c84f3c88b6197
 Section: Tweaks
-Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能:移除一些广告,弹窗,无水印保存视频图片
+Description: 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能 或 在设置右上角打开 | 功能；移除一些广告 弹窗 无水印保存视频图片
 Author: x✨
 Name: 快手Hook
 
 Package: com.xx.kshook
-Version: 1.0.5-1
+Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 448
+Installed-Size: 1180
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.kshook_1.0.5-1_iphoneos-arm64.deb
-Size: 168636
-MD5sum: be24f717b7d82bc37bf7a494326d24ad
-SHA1: a4561e90c648ac122ea7b410f3d8b981fbb156d5
-SHA256: 7f94eb18b2ca739bd1587fd7cbbe0fc94535f86e8009be59887025bddc2f29b6
+Filename: debs/rootless/com.xx.kshook_1.0.6_iphoneos-arm64.deb
+Size: 469910
+MD5sum: 2a57c090751cf816b48ef4081bd6312c
+SHA1: b4c04f2a4c7abf71d1a5ceabfce6dd84b5d91670
+SHA256: 11a69dd0a2e794871b08fa3ec7dd6227f7b7a3fd842b72026328f415848d9dd2
 Section: Tweaks
-Description: 点击APP右下角-我-右上角三横-长按打开菜单开启功能。功能:移除一些广告,弹窗,无水印保存视频图片
+Description: 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能 或 在设置右上角打开 | 功能；移除一些广告 弹窗 无水印保存视频图片
 Author: x✨
 Name: 快手Hook
 
@@ -643,34 +609,34 @@ Author: x✨
 Name: 汽水音乐NoAds
 
 Package: com.xx.xhshook
-Version: 1.0.7-1
+Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 192
+Installed-Size: 756
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.0.7-1_iphoneos-arm.deb
-Size: 71690
-MD5sum: 596a3babb99d092ec5e1ee02a7545c99
-SHA1: e6e178e36d57da8c87c58b63ffbaed2197195253
-SHA256: 6785ee324165d9b5d3aea66ddb3472070807dd88cdea244e348889667f92dc2c
+Filename: debs/rootfull/com.xx.xhshook_1.0.8_iphoneos-arm.deb
+Size: 313284
+MD5sum: 1a577150c5e2a1f2a8e52230239d9fbb
+SHA1: 342c2385ee564410c566a5eaadeb00e761690463
+SHA256: 440e78f284e83b2e4d31f4c5d1719a77400e7b5e7c96951717d0953c93283e20
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.7更新内容：修复一些问题
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
 Author: x✨
-Name: 小红薯调整
+Name: 小红薯
 
 Package: com.xx.xhshook
-Version: 1.0.7-1
+Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 192
+Installed-Size: 756
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.0.7-1_iphoneos-arm64.deb
-Size: 71810
-MD5sum: 8ebf050675a8ccafbd0e9a8aaa59f1fa
-SHA1: 3d614ab95f6fb4f2aa0d2e9c3cca44e840f4dd20
-SHA256: 7dfb1eea288925feef35cb85fea9d20517c8a94d432e2e1a5d435a9c9267a31a
+Filename: debs/rootless/com.xx.xhshook_1.0.8_iphoneos-arm64.deb
+Size: 312792
+MD5sum: c6e7c1b1d469f653ef30eb5f572c3b47
+SHA1: f7fb1abccee097d944d06df8f3586344db305464
+SHA256: 58ced16cfbdd0224fee2ee11e2a48c55d3ec2807aea4a26378d8c1c10cdc2045
 Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片,视频,live图,评论区图片,长按文案复制 | 1.0.7更新内容：修复一些问题
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
 Author: x✨
-Name: 小红薯调整
+Name: 小红薯
 
