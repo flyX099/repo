@@ -63,16 +63,16 @@ Author: x✨
 Name: 百度地图优化
 
 Package: com.xx.dyhook
-Version: 2.0.0
+Version: 2.0.3
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 2428
+Installed-Size: 3144
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.0_iphoneos-arm.deb
-Size: 879676
-MD5sum: ac8177c58ac9491c521709028d9e74f5
-SHA1: deaf8c8945caedf64377e1d95cfc850cf5b2b189
-SHA256: 129337fb187c3125936038f6345f0ab8ea2d5fc45a1ef8fadd8a16034ba450e1
+Filename: debs/rootfull/com.xx.dyhook_2.0.3_iphoneos-arm.deb
+Size: 956840
+MD5sum: 414e935af541d9129284aa53582ad046
+SHA1: a52e96375a30e4c6b1839fc55f160dfb3080697b
+SHA256: 33de2ed0e51ad717682fc4f107b4886d9087173719c41436c48b3f2a94ad6e80
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -80,50 +80,16 @@ Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.dyhook
-Version: 2.0.0
+Version: 2.0.3
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 2428
+Installed-Size: 3160
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.0_iphoneos-arm64.deb
-Size: 885142
-MD5sum: d21e7a218653327e67ea90ba01861b21
-SHA1: 19ba66605c4d7550310c86ae5337866789de2531
-SHA256: ee5e2e195e88cd8696f46321c3db82fcebc682c4932fed8289bf6b0ea5379ce4
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 2.0.1
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 2464
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.1_iphoneos-arm.deb
-Size: 896984
-MD5sum: e406d4de9c35d81c331fe9d203a1a5ba
-SHA1: 9277099a09379d29687fb0e93f55881f515f8531
-SHA256: b6aede106b5e232854d1f30f9159427e3c99fca699091a3004d40b7f43305382
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 2428
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.1_iphoneos-arm64.deb
-Size: 884188
-MD5sum: 22c9a6735ae3378367b37e46bb759e7c
-SHA1: 08f26ad5136864ccabf0e678344154d2fb26d522
-SHA256: d9b18c5e0db83256edaf0d01dbf7dd407a4d89db41e693182989270786ae44fe
+Filename: debs/rootless/com.xx.dyhook_2.0.3_iphoneos-arm64.deb
+Size: 957952
+MD5sum: f1a126bad503337344c6a52929edb4c3
+SHA1: b4f5e09107b701fe609751f96c479cc734ac5961
+SHA256: 1c38b24c8517ca14657ee033ac6d1826a40196a6ce6797bd81a6e10304da3725
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -643,34 +609,34 @@ Author: x✨
 Name: 汽水音乐NoAds
 
 Package: com.xx.xhshook
-Version: 1.0.8
+Version: 1.0.9
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 756
+Installed-Size: 1080
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.0.8_iphoneos-arm.deb
-Size: 313284
-MD5sum: 1a577150c5e2a1f2a8e52230239d9fbb
-SHA1: 342c2385ee564410c566a5eaadeb00e761690463
-SHA256: 440e78f284e83b2e4d31f4c5d1719a77400e7b5e7c96951717d0953c93283e20
+Filename: debs/rootfull/com.xx.xhshook_1.0.9_iphoneos-arm.deb
+Size: 335532
+MD5sum: 3bcf791cc20d5258c680eb6e4a93a69f
+SHA1: 4459e20d7d6c6e9f3984ba3d25812a885edde1c2
+SHA256: 1ec9838fb44790363a3432cac245c44d1667183d0bfe67c386c927214406f30a
 Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载
 Author: x✨
 Name: 小红薯
 
 Package: com.xx.xhshook
-Version: 1.0.8
+Version: 1.0.9
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 756
+Installed-Size: 1080
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.0.8_iphoneos-arm64.deb
-Size: 312792
-MD5sum: c6e7c1b1d469f653ef30eb5f572c3b47
-SHA1: f7fb1abccee097d944d06df8f3586344db305464
-SHA256: 58ced16cfbdd0224fee2ee11e2a48c55d3ec2807aea4a26378d8c1c10cdc2045
+Filename: debs/rootless/com.xx.xhshook_1.0.9_iphoneos-arm64.deb
+Size: 335832
+MD5sum: 3321c432144bba9b7bdfa24c8e61fcd3
+SHA1: a0806f5c692e328feba25a12f5d861938741bbda
+SHA256: 1c7e7aac5c9769790a88dcb92f27d669e880fe02474a67e1c7154a6f56c85ccf
 Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载
 Author: x✨
 Name: 小红薯
 
