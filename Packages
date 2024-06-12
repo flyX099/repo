@@ -608,6 +608,38 @@ Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(自
 Author: x✨
 Name: 汽水音乐NoAds
 
+Package: com.xx.soulatch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.soulatch_1.0.0_iphoneos-arm.deb
+Size: 27028
+MD5sum: 49f325bfea2fcbb3f7df01e9d2254152
+SHA1: d7a5ef3931e9caad9387ab0f2d4e5fafdc5a089b
+SHA256: 96601e79d7130a4b579fc71df31352aec50848b14baf2b5065ce5320c3448396
+Section: Tweaks
+Description: 无需送礼私聊 下载图片视频无水印(无法下载的开启强制下载) 防撤回 移除一些广告
+Author: x✨
+Name: SOULPatch
+
+Package: com.xx.soulatch
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.soulatch_1.0.0_iphoneos-arm64.deb
+Size: 23236
+MD5sum: 8cae5427cf368110a55337f4cd003996
+SHA1: c5b3fde2b178e5bd091557c98f474175c3e77959
+SHA256: b6f352c64c0df0fc5537ac5f7e75c62972f30df819cfeffe9adace7feb9f8d4f
+Section: Tweaks
+Description: 无需送礼私聊 下载图片视频无水印(无法下载的开启强制下载) 防撤回 移除一些广告
+Author: x✨
+Name: SOULPatch
+
 Package: com.xx.xhshook
 Version: 1.0.9
 Architecture: iphoneos-arm
