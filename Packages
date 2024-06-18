@@ -1,3 +1,35 @@
+Package: com.3dmenu.cheatpatch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: flyX099
+Installed-Size: 1600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.3dmenu.cheatpatch_1.0.0_iphoneos-arm.deb
+Size: 401020
+MD5sum: adb2521fe822f1e0e6ef1ec8fa458379
+SHA1: e9e547e989ed6cc255ec9636b6ab2d754a4f2a83
+SHA256: 409a34a7aabf8eea41793be09ecc043b6313ada9b043abbc513a46b077cca7ca
+Section: Tweaks
+Description: 自用 上传备份(勿下) 使用3DMenu快速注入iGameGod(无广告+汉化) 内购破解 秒过广告 修补偏移地址 脱壳等
+Author: flyX099
+Name: 3DMenuGameTool
+
+Package: com.3dmenu.cheatpatch
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: flyX099
+Installed-Size: 1616
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.3dmenu.cheatpatch_1.0.0_iphoneos-arm64.deb
+Size: 402380
+MD5sum: 3a7151a4c856d67676e845dc968c2b6b
+SHA1: cfd2b82538db7c103e92726a9fe366ed81b72630
+SHA256: 2c0ea7ddcab04ef80eb9765306ca504fac04af3f4d02bf20dfd6974c6234a9b2
+Section: Tweaks
+Description: 自用 上传备份(勿下) 使用3DMenu快速注入iGameGod(无广告+汉化) 内购破解 秒过广告 修补偏移地址 脱壳等
+Author: flyX099
+Name: 3DMenuGameTool
+
 Package: com.xx.baiduhook
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -351,6 +383,38 @@ Section: Tweaks
 Description: 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能 或 在设置右上角打开 | 功能；移除一些广告 弹窗 无水印保存视频图片 ---- 无效请打开插件设置 滑到底部点延长时间
 Author: x✨
 Name: 快手Hook
+
+Package: com.xx.machostrip
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: flyX099
+Installed-Size: 3544
+Filename: debs/rootfull/com.xx.machostrip_1.0.0_iphoneos-arm.deb
+Size: 1353618
+MD5sum: 83e18b6dc6f9cf1f3d4fa7e0405cd0a4
+SHA1: ae54c231358151c4fe1872450f32960c57bb98e3
+SHA256: 0c6628d47e2d64d84892725af4985b089b03c63dc2050829f8c4bc066f7c8dc3
+Section: System
+Description: 自用 上传备份
+Tag: role::hacker
+Author: flyX099
+Name: machostrip
+
+Package: com.xx.machostrip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: flyX099
+Installed-Size: 3544
+Filename: debs/rootless/com.xx.machostrip_1.0.0_iphoneos-arm64.deb
+Size: 1353740
+MD5sum: 57a157b706200585a46dc8287cddab3f
+SHA1: d83ff2a72e7ccf072b8edf61ea1a5087924c38ea
+SHA256: 05f874b40a8dfcc7be29c6e3dac8b63e82283b424acdf8fabe71ea3be3f02014
+Section: System
+Description: 自用 上传备份
+Tag: role::hacker
+Author: flyX099
+Name: machostrip
 
 Package: com.xx.ppxhook
 Version: 1.0.6
