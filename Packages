@@ -737,32 +737,32 @@ Author: x✨
 Name: SOULPatch
 
 Package: com.xx.spidercrack
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 124
+Installed-Size: 140
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.spidercrack_1.0.0_iphoneos-arm.deb
-Size: 22888
-MD5sum: 4bd73b351832c847a9e136aaeca3e073
-SHA1: e9d8aafdec74dd5be2028badfaab87efc9e08934
-SHA256: 3b42e04197a67a4e38282815a3f74a5c4d9804b9faf5f8bf78fe99bd05dc1c76
+Filename: debs/rootfull/com.xx.spidercrack_1.0.1_iphoneos-arm.deb
+Size: 26560
+MD5sum: 745908a40c4d926fea212bc9481e9b1e
+SHA1: 10acd2df420113ed4011fb819498e6161b575b4c
+SHA256: c19c18fe3cb22249021bfeed4e943a0196263ad414c1852589efd41d63dac347
 Section: Tweaks
 Description: 解锁会员 仅支持4.0.5版本
 Author: x✨
 Name: SpiderProxyCrack
 
 Package: com.xx.spidercrack
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 124
+Installed-Size: 140
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.spidercrack_1.0.0_iphoneos-arm64.deb
-Size: 22860
-MD5sum: 271c30373095c6991af4ee638e00df19
-SHA1: 5fff1ed62c90010941264a1b0a798101e9f475c3
-SHA256: a38c8e20c9ab8e5a8b057c79437b0731fd8c36ec8ccf6c7e31b45097825b8fdd
+Filename: debs/rootless/com.xx.spidercrack_1.0.1_iphoneos-arm64.deb
+Size: 26420
+MD5sum: c3d1253928f5e2f2d03537b2087cb249
+SHA1: 8f391f5ceca5f779085c3cbd63a6750b1ab79ff3
+SHA256: d034437fa99366ba9bad8849d9308cfd267baf5fd1156854d10db64eef404962
 Section: Tweaks
 Description: 解锁会员 仅支持4.0.5版本
 Author: x✨
