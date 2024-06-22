@@ -736,6 +736,38 @@ Description: 无需送礼私聊 下载图片视频无水印(无法下载的开�
 Author: x✨
 Name: SOULPatch
 
+Package: com.xx.spidercrack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.spidercrack_1.0.0_iphoneos-arm.deb
+Size: 22888
+MD5sum: 4bd73b351832c847a9e136aaeca3e073
+SHA1: e9d8aafdec74dd5be2028badfaab87efc9e08934
+SHA256: 3b42e04197a67a4e38282815a3f74a5c4d9804b9faf5f8bf78fe99bd05dc1c76
+Section: Tweaks
+Description: 解锁会员 仅支持4.0.5版本
+Author: x✨
+Name: SpiderProxyCrack
+
+Package: com.xx.spidercrack
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.spidercrack_1.0.0_iphoneos-arm64.deb
+Size: 22860
+MD5sum: 271c30373095c6991af4ee638e00df19
+SHA1: 5fff1ed62c90010941264a1b0a798101e9f475c3
+SHA256: a38c8e20c9ab8e5a8b057c79437b0731fd8c36ec8ccf6c7e31b45097825b8fdd
+Section: Tweaks
+Description: 解锁会员 仅支持4.0.5版本
+Author: x✨
+Name: SpiderProxyCrack
+
 Package: com.xx.xhshook
 Version: 1.0.9
 Architecture: iphoneos-arm
