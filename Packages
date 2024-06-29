@@ -737,34 +737,34 @@ Author: x✨
 Name: SOULPatch
 
 Package: com.xx.spidercrack
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 140
+Installed-Size: 124
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.spidercrack_1.0.1_iphoneos-arm.deb
-Size: 26560
-MD5sum: 745908a40c4d926fea212bc9481e9b1e
-SHA1: 10acd2df420113ed4011fb819498e6161b575b4c
-SHA256: c19c18fe3cb22249021bfeed4e943a0196263ad414c1852589efd41d63dac347
+Filename: debs/rootfull/com.xx.spidercrack_1.0.2_iphoneos-arm.deb
+Size: 24420
+MD5sum: bc6d9920883f581f236195a0d313438c
+SHA1: 756b3fb8b12467595198e53851ba6debbf53e351
+SHA256: de7063c8a351228bc5e1b0e96fcacbfeba7a10936828a7a684d42e8bff7e77af
 Section: Tweaks
-Description: 解锁会员 仅支持4.0.5版本
+Description: 解锁会员 插件仅供个人学习交流使用 如有能力请支持正版
 Author: x✨
 Name: SpiderProxyCrack
 
 Package: com.xx.spidercrack
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 140
+Installed-Size: 124
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.spidercrack_1.0.1_iphoneos-arm64.deb
-Size: 26420
-MD5sum: c3d1253928f5e2f2d03537b2087cb249
-SHA1: 8f391f5ceca5f779085c3cbd63a6750b1ab79ff3
-SHA256: d034437fa99366ba9bad8849d9308cfd267baf5fd1156854d10db64eef404962
+Filename: debs/rootless/com.xx.spidercrack_1.0.2_iphoneos-arm64.deb
+Size: 24220
+MD5sum: 03fc20fd66304974ffda3b15d69ef1bd
+SHA1: cfb0ca48ef638f6592a3051e6f01f128ea1b5cc5
+SHA256: c6be349947c2a129e51915d94ec95758dcb5e0b683c9d7f5120bec74be1b1870
 Section: Tweaks
-Description: 解锁会员 仅支持4.0.5版本
+Description: 解锁会员 插件仅供个人学习交流使用 如有能力请支持正版
 Author: x✨
 Name: SpiderProxyCrack
 
@@ -831,4 +831,36 @@ Section: Tweaks
 Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载. ----- 无效请打开插件设置 滑到底部点延长时间
 Author: x✨
 Name: 小红薯
+
+Package: com.xx.ysbrowserhook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.ysbrowserhook_1.0.0_iphoneos-arm.deb
+Size: 3236
+MD5sum: 00cf60cddeb56dbeeeb2757b6931b244
+SHA1: 2755371b700eb30aa78f16dabb2fab6bb2011d58
+SHA256: c3a11e3b262965640b6694960afb8b2ec29a9d3e86866e7fbea61c5f8f7a9c2e
+Section: Tweaks
+Description: 解锁Pro(使用shadow解决了越狱检测) 插件仅供个人学习交流使用 如有能力请支持正版
+Author: x✨
+Name: 亚瑟浏览器Pro
+
+Package: com.xx.ysbrowserhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.ysbrowserhook_1.0.0_iphoneos-arm64.deb
+Size: 3476
+MD5sum: fb5907b14607ed139df50f2915c95788
+SHA1: bec8a93653289057dc4c2329d8801063e92ecbf6
+SHA256: f522db9acf0affb831ec89d99765e2bb26285194f5deaa864207d96a65ef6226
+Section: Tweaks
+Description: 解锁Pro(使用shadow解决了越狱检测) 插件仅供个人学习交流使用 如有能力请支持正版
+Author: x✨
+Name: 亚瑟浏览器Pro
 
