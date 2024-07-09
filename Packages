@@ -192,6 +192,38 @@ Description: 自用 功能默认开启 | 去除启动广告 首页一些无用�
 Author: x✨
 Name: 高德地图优化
 
+Package: com.xx.gaodehook
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 884
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.gaodehook_1.0.4_iphoneos-arm.deb
+Size: 357112
+MD5sum: c91fc7cd1534dfac8d305805dbd4efbe
+SHA1: 86b5f5731078ec67084703136436c013183fd014
+SHA256: 834016571ed54fc008ade20fda116f8e2be0595696b5122f332e6c99465cd5c7
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.4更新内容：修复问题
+Author: x✨
+Name: 高德地图优化
+
+Package: com.xx.gaodehook
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 900
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.gaodehook_1.0.4_iphoneos-arm64.deb
+Size: 357780
+MD5sum: c89a41bc384219f4cd73ce233a935b3d
+SHA1: 780ea948357fb172a62aca902cf6062ff577148d
+SHA256: 107eacc4a334967c62ed514afe2d7f258a268edbbbf7a81b52bab0ebac13a9b0
+Section: Tweaks
+Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.4更新内容：修复问题
+Author: x✨
+Name: 高德地图优化
+
 Package: com.xx.iboxhook
 Version: 1.0.6
 Architecture: iphoneos-arm
