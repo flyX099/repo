@@ -578,6 +578,38 @@ Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
 Author: x✨
 Name: QQ新版防撤回
 
+Package: com.xx.qqhook
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1616
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qqhook_1.1.1-1_iphoneos-arm.deb
+Size: 577988
+MD5sum: 5e143d57bf47c24b5c843039377e87f7
+SHA1: 9b66d80c160442f5d7a0fd02030f3f9b75bbfc8a
+SHA256: f4fb57ce0cddd374dec7ff62fad5302d053db2964715ab8b8a45c3235ea7ec74
+Section: Tweaks
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.1.1-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1600
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qqhook_1.1.1-1_iphoneos-arm64.deb
+Size: 576330
+MD5sum: 1e0fc963db189f03cfad0cda90c3c87c
+SHA1: 08902cf38994e5de260aebab46bbd2ce1096e7c8
+SHA256: 9d94f2ee36dbee03c68f3511d1973e2ad1eb681fbccc48fde9211533ddd098c6
+Section: Tweaks
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Author: x✨
+Name: QQ新版防撤回
+
 Package: com.xx.qsyyhook
 Version: 1.0.1
 Architecture: iphoneos-arm
