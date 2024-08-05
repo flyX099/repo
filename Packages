@@ -128,6 +128,40 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.dyhook
+Version: 2.0.3-6
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 5280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dyhook_2.0.3-6_iphoneos-arm.deb
+Size: 1917122
+MD5sum: 3fddc1c18812dde3d9103c92f8dc4512
+SHA1: e5499d116a34fa56c0755320d543875eae0d2af6
+SHA256: b74ca32719f769f72c1b1a2a03fffaaa15523cb6c9836045136805b8ce6142ee
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xx.dyhook
+Version: 2.0.3-6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 5280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dyhook_2.0.3-6_iphoneos-arm64.deb
+Size: 1918624
+MD5sum: c5f41ffe14c9029e00ccd49f7d07b46d
+SHA1: c9d9fa186339d99d82186bb97d5b0729e9aa2953
+SHA256: 5d11582ae97de6d87cf903dcb821b433ee474bf6eee34d2eb626bf6a562d0be6
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: com.xx.ecnyhook
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -513,96 +547,32 @@ Author: x✨
 Name: 七猫小说Hook
 
 Package: com.xx.qqhook
-Version: 1.0.8
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 520
+Installed-Size: 1664
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.0.8_iphoneos-arm.deb
-Size: 156570
-MD5sum: aba0e94869bcd24995c9af3a3701e05d
-SHA1: 12f21b6f7a0b52cde22a68a00175719ff9475c19
-SHA256: af5f2dfea586ac87c4ace47982c17102e3acc37f52aa5b7631210d3ac65973bf
+Filename: debs/rootfull/com.xx.qqhook_1.1.1_iphoneos-arm.deb
+Size: 599256
+MD5sum: 9a9b9b0649ff14e3bfee711263258c1b
+SHA1: a75e50b807cc80cfb8bea809895a6570fb8a7674
+SHA256: 470874ddf6552d1452e6eaedbc14b56e48d4fca396fd977854643ca16ae7a4e7
 Section: Tweaks
 Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
 Author: x✨
 Name: QQ新版防撤回
 
 Package: com.xx.qqhook
-Version: 1.0.8
+Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 520
+Installed-Size: 1632
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.0.8_iphoneos-arm64.deb
-Size: 156808
-MD5sum: 828faaf122bfb5a2d5ae3c5fced91fc4
-SHA1: b9be7dc8f5e344af0ef032202fdc83c074fee068
-SHA256: 9d3dc02a748dbe094e38f49432745c150d2f1cc94d955fa21e011a3ccec74e9b
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.0.9
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 536
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.0.9_iphoneos-arm.deb
-Size: 163604
-MD5sum: 802ee9dcad5ebbaa550a213747d83e18
-SHA1: ded254c7d4bc65eaeee7618252cfbe042fbdb659
-SHA256: 4bda226606db97ba9e9ac3bcec869026354b69501eeb131690e27153183945d3
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+ | 109更新：闪照无限看(越狱) 保存闪照 禁止闪照截屏录屏检测
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.0.9
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 536
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.0.9_iphoneos-arm64.deb
-Size: 162360
-MD5sum: 328ddde2930e3651054fc1efb22b6868
-SHA1: 8dbe9b84fe0b93adf1cc6c7cf24c7c0f4f0ab01e
-SHA256: 404429321e73c976a79f0ae3629d9b104c46f670e72c76b91e08823704678f70
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+ | 109更新：闪照无限看(越狱) 保存闪照 禁止闪照截屏录屏检测
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 552
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.1.0_iphoneos-arm.deb
-Size: 169452
-MD5sum: bcf82390c066543a920013cc910ceb6d
-SHA1: d9a2d456c36218ff8d64d9ff665e1fdb4903377f
-SHA256: 5d51e64c6a2d6249ddedfa8be485837f44cee40771fb85a0e2ac533606e4c3d9
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 536
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.1.0_iphoneos-arm64.deb
-Size: 166674
-MD5sum: b799ae1ab0d00cb2cb110b4dd3818266
-SHA1: 8f2bf9734a4521b7aed6694e933ff82e932f9495
-SHA256: 9557580253210a40970d03e2b1f8b9425e11ccffc7203eddb7204c7c2d15356f
+Filename: debs/rootless/com.xx.qqhook_1.1.1_iphoneos-arm64.deb
+Size: 586868
+MD5sum: ce0d290216342d6764372a75299ce441
+SHA1: 1061641f16bb93407165577a633624c99d52f685
+SHA256: 7b753845aee4afee4f6a4372f878df94ecf9d3d2669108d5ac357559fba413bd
 Section: Tweaks
 Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
 Author: x✨
@@ -763,6 +733,38 @@ Size: 619156
 MD5sum: f6182216897600f9d3ed88b0a4f8c9dd
 SHA1: 91b9e1fc524c5e33b4a84164ebb2663dd316afda
 SHA256: 2ef10ebd41f47e98120f2a9c58209803eb14b9719abbefaf4bbdf4319da7acc5
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 2184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.xhshook_1.1.0-1_iphoneos-arm.deb
+Size: 748808
+MD5sum: bca1168546c910f7e0adfe1dcff5ea65
+SHA1: 07a843fc893c3036c3dbfe44d3733441bebd94f3
+SHA256: 9f96febfe57668017a34afb236b639561bde0a90c2927d641c97b97a060564ff
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.xhshook_1.1.0-1_iphoneos-arm64.deb
+Size: 732628
+MD5sum: f878a37c1391b299adffe4dce8f4a358
+SHA1: 58bfdde84782f7570be0baf6a297900e677f11df
+SHA256: c80e7d31f745a8faa3120d868b4b142934465f741af6afeefe8045f78975965b
 Section: Tweaks
 Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
 Author: x✨
