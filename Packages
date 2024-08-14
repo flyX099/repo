@@ -94,6 +94,38 @@ Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移�
 Author: x✨
 Name: 百度地图优化
 
+Package: com.xx.dazzpro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dazzpro_1.0.0_iphoneos-arm.deb
+Size: 18430
+MD5sum: e8043ec14229c3dcf369970b26561f6f
+SHA1: f20100a200b3b44af3c9c74f13e6f445d3fa0f74
+SHA256: dda09725fc339a6de150201722d30801303505fd1079972888678e5b344e0d47
+Section: Tweaks
+Description: Dazz相机解锁Pro 仅支持2.8.5版本
+Author: x✨
+Name: DazzPro
+
+Package: com.xx.dazzpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dazzpro_1.0.0_iphoneos-arm64.deb
+Size: 19690
+MD5sum: 326070d4e0b4d0755e5a4a6fd868a794
+SHA1: 6f147c1e1f5b96f4ac3d7f20d62d43e2fcdf6c86
+SHA256: d2ddc1f6edef7dd2e0a2ed094e25a455cd48d9d124227bd6de8a08b55f44a0b9
+Section: Tweaks
+Description: Dazz相机解锁Pro 仅支持2.8.5版本
+Author: x✨
+Name: DazzPro
+
 Package: com.xx.dyhook
 Version: 2.0.3-5
 Architecture: iphoneos-arm
@@ -417,6 +449,38 @@ Section: Tweaks
 Description: 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能 或 在设置右上角打开 | 功能；移除一些广告 弹窗 无水印保存视频图片
 Author: x✨
 Name: 快手Hook
+
+Package: com.xx.liitpro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.liitpro_1.0.0_iphoneos-arm.deb
+Size: 17272
+MD5sum: df93d1ef45f9377ed2e6e69b031a7588
+SHA1: ec315bd310982cf45e79c9ae41cc761df28596c8
+SHA256: d6504488f6bf27304f006d16dbf462a87c1747c582767837842ddd6ca368229a
+Section: Tweaks
+Description: Liit-照片视频编辑 解锁Pro 仅支持1.4.1版本
+Author: x✨
+Name: LiitPro
+
+Package: com.xx.liitpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.liitpro_1.0.0_iphoneos-arm64.deb
+Size: 18712
+MD5sum: 2e4cb0358adb6e23dbfad8659f5452f1
+SHA1: 9141e8411e87935861c1a39dfcee1b996d50acf7
+SHA256: f7ba45a8ea22356ebdc048046b9195722bc9761599f9b517f45755818013e5a0
+Section: Tweaks
+Description: Liit-照片视频编辑 解锁Pro 仅支持1.4.1版本
+Author: x✨
+Name: LiitPro
 
 Package: com.xx.machostrip
 Version: 1.0.0
