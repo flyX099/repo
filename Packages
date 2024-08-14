@@ -290,6 +290,38 @@ Description: 自用 功能默认开启 | 去除启动广告 首页一些无用�
 Author: x✨
 Name: 高德地图优化
 
+Package: com.xx.growvip
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.growvip_1.0.0_iphoneos-arm.deb
+Size: 18082
+MD5sum: 9e987392fe98f0176c4e41b7b5d3acd3
+SHA1: ddd8b9983ffe108b48af2b3279977eb4c60314d7
+SHA256: 6fc794c4cefcd6d16012082fffac655647a61c7124cd4a0f3f98a4417d871d74
+Section: Tweaks
+Description: Grow会员解锁
+Author: x✨
+Name: Grow会员
+
+Package: com.xx.growvip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.growvip_1.0.0_iphoneos-arm64.deb
+Size: 18238
+MD5sum: 65044c1b1926237a8a0048b0c6da1837
+SHA1: 3adaca7e87dfd437240e5d3806d7152ad4ff91c2
+SHA256: 2308e56d7eff097a7270aa04bd4c267fb0accab50aa572f58210d16079f4d1f9
+Section: Tweaks
+Description: Grow会员解锁
+Author: x✨
+Name: Grow会员
+
 Package: com.xx.iboxhook
 Version: 1.0.6
 Architecture: iphoneos-arm
@@ -833,6 +865,38 @@ Section: Tweaks
 Description: 解锁会员 插件仅供个人学习交流使用 如有能力请支持正版
 Author: x✨
 Name: SpiderProxyCrack
+
+Package: com.xx.totofinancevip
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.totofinancevip_1.0.0_iphoneos-arm.deb
+Size: 31378
+MD5sum: c2484f8aeadbf3abf6cb52b24f1ead7b
+SHA1: 21063975418a146d15a3c255a95bbc1474c39947
+SHA256: 96334a04f8526eba9de560a78f5d6185243ef8484386f3a3a3fc1867a87a0695
+Section: Tweaks
+Description: 图图记账会员解锁 仅支持3.2.17版本
+Author: x✨
+Name: 图图记账会员
+
+Package: com.xx.totofinancevip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.totofinancevip_1.0.0_iphoneos-arm64.deb
+Size: 31260
+MD5sum: 02478eceb4ea9f15e3141d4ffbaa6fef
+SHA1: 4bf334f3ff53bb6242f9862a7ee1e7d58d68a042
+SHA256: 59b2bcf3635038a98edf78ca1ad5a2e62a8c508a6edba29cf1736c0be87b5625
+Section: Tweaks
+Description: 图图记账会员解锁 仅支持3.2.17版本
+Author: x✨
+Name: 图图记账会员
 
 Package: com.xx.xhshook
 Version: 1.0.9-2
