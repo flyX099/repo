@@ -802,6 +802,38 @@ Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(自
 Author: x✨
 Name: 汽水音乐NoAds
 
+Package: com.xx.simcitycheat
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.simcitycheat_1.0.0_iphoneos-arm.deb
+Size: 120846
+MD5sum: e8902d6897347cb339c1eff9ae2f6e34
+SHA1: 0ebba5f3726c1161988fdab77b05c6649a382c20
+SHA256: c4e07f38b8a31088e44303ea47cc26fd55e41e637853a494c5132eca0bada4e9
+Section: Tweaks
+Description: SimCity模拟城市国际版 货币作弊 仅支持1.56.2版本
+Author: x✨
+Name: SimCityCheat
+
+Package: com.xx.simcitycheat
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.simcitycheat_1.0.0_iphoneos-arm64.deb
+Size: 120950
+MD5sum: 44f94ec0a6b612d36536b7999cbb264b
+SHA1: 29eae1397f71446f318e384357d1adef09be7972
+SHA256: 319bd93aa8eae74be8bd142c7b17a87cdd10f143c892a719c9700f99963473d2
+Section: Tweaks
+Description: SimCity模拟城市国际版 货币作弊 仅支持1.56.2版本
+Author: x✨
+Name: SimCityCheat
+
 Package: com.xx.soulatch
 Version: 1.0.0
 Architecture: iphoneos-arm
