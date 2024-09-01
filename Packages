@@ -514,38 +514,6 @@ Description: Liit-照片视频编辑 解锁Pro 仅支持1.4.1版本
 Author: x✨
 Name: LiitPro
 
-Package: com.xx.machostrip
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: flyX099
-Installed-Size: 3544
-Filename: debs/rootfull/com.xx.machostrip_1.0.0_iphoneos-arm.deb
-Size: 1353618
-MD5sum: 83e18b6dc6f9cf1f3d4fa7e0405cd0a4
-SHA1: ae54c231358151c4fe1872450f32960c57bb98e3
-SHA256: 0c6628d47e2d64d84892725af4985b089b03c63dc2050829f8c4bc066f7c8dc3
-Section: System
-Description: 自用 上传备份
-Tag: role::hacker
-Author: flyX099
-Name: machostrip
-
-Package: com.xx.machostrip
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: flyX099
-Installed-Size: 3544
-Filename: debs/rootless/com.xx.machostrip_1.0.0_iphoneos-arm64.deb
-Size: 1353740
-MD5sum: 57a157b706200585a46dc8287cddab3f
-SHA1: d83ff2a72e7ccf072b8edf61ea1a5087924c38ea
-SHA256: 05f874b40a8dfcc7be29c6e3dac8b63e82283b424acdf8fabe71ea3be3f02014
-Section: System
-Description: 自用 上传备份
-Tag: role::hacker
-Author: flyX099
-Name: machostrip
-
 Package: com.xx.ppxhook
 Version: 1.0.6
 Architecture: iphoneos-arm
