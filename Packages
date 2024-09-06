@@ -354,6 +354,38 @@ Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧V
 Author: x✨
 Name: iBoxNoAds
 
+Package: com.xx.iboxhook
+Version: 1.0.8-1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.iboxhook_1.0.8-1_iphoneos-arm.deb
+Size: 136484
+MD5sum: 748779a2fead3b6e0eddaf5f749902ae
+SHA1: d85878d7f2f41ce3c44e3e17bf7801d910099840
+SHA256: 053a26e3a0a1a8171b9d85caa0609dc461fbb829a9efb20628eb0968989e5c49
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持215版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.8-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.iboxhook_1.0.8-1_iphoneos-arm64.deb
+Size: 135298
+MD5sum: 234684217e4c28dd2e9121c8b307c029
+SHA1: d528fc94dc617940308966893e69aba04252e505
+SHA256: 85608ef8c29e92c6b9b6dd8143f42a3c0cbf5c6b88e386bee6203f9e993a53bd
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持215版本
+Author: x✨
+Name: iBoxNoAds
+
 Package: com.xx.intolivehook
 Version: 1.0.0
 Architecture: iphoneos-arm
