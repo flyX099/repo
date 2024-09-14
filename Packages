@@ -127,72 +127,36 @@ Author: x✨
 Name: DazzPro
 
 Package: com.xx.dyhook
-Version: 2.0.3-5
+Version: 2.0.3-8
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 5464
+Installed-Size: 9576
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.3-5_iphoneos-arm.deb
-Size: 1919148
-MD5sum: 738aa1ed15c2553bb14c4cea948b46e5
-SHA1: 0ec0e71b55b4101fee450d47f91ff5eafa77770d
-SHA256: a650bc580f382ab3d950d8dab456e5346f67fe938ee6f8bbb3c5e2e35487064f
+Filename: debs/rootfull/com.xx.dyhook_2.0.3-8_iphoneos-arm.deb
+Size: 3038812
+MD5sum: e847b80a22543850d7efc3117553df4d
+SHA1: 765ca6b03dcd24ad0d522fa66a76d4e89be76ef6
+SHA256: affab7608762351641d14ad3e1c09f3233b42853f0950fdc32a34e1426c9c466
 Section: Tweaks
-Description: 自用
+Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.dyhook
-Version: 2.0.3-5
+Version: 2.0.3-8
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 5464
+Installed-Size: 9560
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.3-5_iphoneos-arm64.deb
-Size: 1923508
-MD5sum: fea7ddb673ca38f45d9a3c8d6f105a4a
-SHA1: 14373c1a274b3e790072398f9ef1bd369db9d3d3
-SHA256: 3d6f4c61e98268b9dc4e6a90896c0d738b630150f0283ae4dc8e9306da5d80e2
+Filename: debs/rootless/com.xx.dyhook_2.0.3-8_iphoneos-arm64.deb
+Size: 3031604
+MD5sum: e7bb5de6d7690fa15154b8c346ed582a
+SHA1: 78c5604b09b3cc59bd2be0ba6d86fc1fd9d44427
+SHA256: 4714f72469d3a1c5b730f9c9da8479618fde05c4997a896bb2c79a4c032f497b
 Section: Tweaks
-Description: 自用
+Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 2.0.3-6
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 5280
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.3-6_iphoneos-arm.deb
-Size: 1917122
-MD5sum: 3fddc1c18812dde3d9103c92f8dc4512
-SHA1: e5499d116a34fa56c0755320d543875eae0d2af6
-SHA256: b74ca32719f769f72c1b1a2a03fffaaa15523cb6c9836045136805b8ce6142ee
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 2.0.3-6
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 5280
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.3-6_iphoneos-arm64.deb
-Size: 1918624
-MD5sum: c5f41ffe14c9029e00ccd49f7d07b46d
-SHA1: c9d9fa186339d99d82186bb97d5b0729e9aa2953
-SHA256: 5d11582ae97de6d87cf903dcb821b433ee474bf6eee34d2eb626bf6a562d0be6
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.ecnyhook
 Version: 1.0.2
@@ -701,6 +665,38 @@ Size: 576330
 MD5sum: 1e0fc963db189f03cfad0cda90c3c87c
 SHA1: 08902cf38994e5de260aebab46bbd2ce1096e7c8
 SHA256: 9d94f2ee36dbee03c68f3511d1973e2ad1eb681fbccc48fde9211533ddd098c6
+Section: Tweaks
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.1.1-2
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 2216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qqhook_1.1.1-2_iphoneos-arm.deb
+Size: 764726
+MD5sum: b6bcf5a69a35f7996c2708251ec89d23
+SHA1: f9864559a72efcb7549e8af1448e98c22df87382
+SHA256: 56f9d64f93b08a229d6a250f6324b501da37f2c9411074770ea3853fa929fe03
+Section: Tweaks
+Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Author: x✨
+Name: QQ新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.1.1-2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qqhook_1.1.1-2_iphoneos-arm64.deb
+Size: 785358
+MD5sum: b6201921bbfa26eecc6321b7569dd062
+SHA1: e0484bd80ccdf08df5e1dd004e1e777e1f4140da
+SHA256: b038d51912ec6f59fc8431c34773984b74f5ffadf25c9ba252728600af427c03
 Section: Tweaks
 Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
 Author: x✨
