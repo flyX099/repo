@@ -319,38 +319,6 @@ Author: x✨
 Name: Grow会员
 
 Package: com.xx.iboxhook
-Version: 1.0.8
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 484
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.iboxhook_1.0.8_iphoneos-arm.deb
-Size: 141956
-MD5sum: 95f58af2fea34d96759c2d252064e145
-SHA1: 0ccaa0b6a4cba6cc772ed895775f67693b4ca111
-SHA256: 03bb9e32326427becfb402b2758a1c013f7ba133dccd56cc46d466197edd6573
-Section: Tweaks
-Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持215版本
-Author: x✨
-Name: iBoxNoAds
-
-Package: com.xx.iboxhook
-Version: 1.0.8
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 484
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.iboxhook_1.0.8_iphoneos-arm64.deb
-Size: 141322
-MD5sum: 722f01f35c17496dad7bf414802608f7
-SHA1: e4ceb81dcbac4cebac14bf3b4ca86a544dd44fe3
-SHA256: dd185b4549ac15fe0dfc155377650aaada992f53dc4995088acc5116abff87a4
-Section: Tweaks
-Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持215版本
-Author: x✨
-Name: iBoxNoAds
-
-Package: com.xx.iboxhook
 Version: 1.0.8-1
 Architecture: iphoneos-arm
 Maintainer: x✨
@@ -379,6 +347,38 @@ SHA1: d528fc94dc617940308966893e69aba04252e505
 SHA256: 85608ef8c29e92c6b9b6dd8143f42a3c0cbf5c6b88e386bee6203f9e993a53bd
 Section: Tweaks
 Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除看剧VPN检测 其余检测未去除 | 仅越狱使用 仅支持215版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.iboxhook_1.0.9_iphoneos-arm.deb
+Size: 88006
+MD5sum: 43951818d87678a2a6d9532d0039d228
+SHA1: 09f6db327e60c2a67273f5d5534f58a5b7dd6302
+SHA256: 85c1664656fe8ef685481aa05aab5d905dd6f9a8f8b7ab09919d098089b852a4
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除VPN检测 移除开屏Ads | 仅越狱使用 更新支持216版本
+Author: x✨
+Name: iBoxNoAds
+
+Package: com.xx.iboxhook
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 304
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.iboxhook_1.0.9_iphoneos-arm64.deb
+Size: 88348
+MD5sum: c558aefb19cd0cb089b3334a7cc9106d
+SHA1: 821f7b12497ae838b8c705df1ca333474bee4a5d
+SHA256: 093a4fcd16b84f50ee3a9efcefb8a2bd2485ee705f0dbf993367c0e4caccb6b5
+Section: Tweaks
+Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除VPN检测 移除开屏Ads | 仅越狱使用 更新支持216版本
 Author: x✨
 Name: iBoxNoAds
 
