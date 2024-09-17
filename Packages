@@ -127,64 +127,32 @@ Author: x✨
 Name: DazzPro
 
 Package: com.xx.dyhook
-Version: 2.0.3-8
+Version: 2.0.5-1
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 9576
+Installed-Size: 9172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.3-8_iphoneos-arm.deb
-Size: 3038812
-MD5sum: e847b80a22543850d7efc3117553df4d
-SHA1: 765ca6b03dcd24ad0d522fa66a76d4e89be76ef6
-SHA256: affab7608762351641d14ad3e1c09f3233b42853f0950fdc32a34e1426c9c466
+Filename: debs/rootfull/com.xx.dyhook_2.0.5-1_iphoneos-arm.deb
+Size: 3198288
+MD5sum: 73c91319db58972eece9902974286702
+SHA1: ff9ba5ef7665b24b4b4a72617686891427d9e505
+SHA256: 604d9603c8b042e7c1211e67836b57c2139fca88ee0fa7a56f6c095de373f348
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
 
 Package: com.xx.dyhook
-Version: 2.0.3-8
+Version: 2.0.5-1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 9560
+Installed-Size: 9188
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.3-8_iphoneos-arm64.deb
-Size: 3031604
-MD5sum: e7bb5de6d7690fa15154b8c346ed582a
-SHA1: 78c5604b09b3cc59bd2be0ba6d86fc1fd9d44427
-SHA256: 4714f72469d3a1c5b730f9c9da8479618fde05c4997a896bb2c79a4c032f497b
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
-
-Package: com.xx.dyhook
-Version: 2.0.5
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 9076
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.5_iphoneos-arm.deb
-Size: 3165148
-MD5sum: 6197b82a0a8fae11df0251601f9f662a
-SHA1: 5155213362bbfe0b2b3b3b6bcf2872f7a2579ae2
-SHA256: 47afb4a450ff9d76fbab3a550a6edff61f629952a00e1f6105ec874fc098db3d
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
-
-Package: com.xx.dyhook
-Version: 2.0.5
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 9076
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.5_iphoneos-arm64.deb
-Size: 3164134
-MD5sum: b80f102b49c8a62dc09bc728e3aff690
-SHA1: 188a62b4d5659d51003ccc1a81774d280ee0e412
-SHA256: 595c090e9f2f21bb0693daa39e61e2f34d6f84b52ed62864647a92e563d0866e
+Filename: debs/rootless/com.xx.dyhook_2.0.5-1_iphoneos-arm64.deb
+Size: 3209540
+MD5sum: becd76b3e062933b25e89d6c1d6e0eb1
+SHA1: a2001b88d8555d5bdf248737980a12cf2d91fac8
+SHA256: 6b32ad8dcf99ddef716b3b7e97c07af80d1251a70f10f4a8cbf033dd9566f1d0
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
