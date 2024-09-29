@@ -127,32 +127,32 @@ Author: x✨
 Name: DazzPro
 
 Package: com.xx.dyhook
-Version: 2.0.5-3
+Version: 2.0.5-5
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 9352
+Installed-Size: 9384
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.5-3_iphoneos-arm.deb
-Size: 3267786
-MD5sum: 25b3adf8d2f6abd82e9185562533f8d0
-SHA1: 0b9cc12060e1c7b6c95bb479340b379c43b2b97f
-SHA256: 961715f3eb310debd97254cd420cc57d401a5729c63f448728045208f076f408
+Filename: debs/rootfull/com.xx.dyhook_2.0.5-5_iphoneos-arm.deb
+Size: 3279378
+MD5sum: 265766fdddf94f1f9f8d4fd9bc05d324
+SHA1: 19d6340bebf23eef7fca2fc861ae64506a9d33c9
+SHA256: cc0d76f59c4a19531710e9183b5360132307b5e8da58c1448b7803b348255864
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
 
 Package: com.xx.dyhook
-Version: 2.0.5-3
+Version: 2.0.5-5
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 9352
+Installed-Size: 9448
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.5-3_iphoneos-arm64.deb
-Size: 3270918
-MD5sum: 44e876efc48db7ce05d94d430ee015dd
-SHA1: a4a708a91663ad56434fcec97b70775e7421186e
-SHA256: a35730c7f7f8b8c287d3e4182bf2565e78994ce3c82f3d04084f9a1d81b1ccc3
+Filename: debs/rootless/com.xx.dyhook_2.0.5-5_iphoneos-arm64.deb
+Size: 3298236
+MD5sum: ed054e199790383afd5335c70420765e
+SHA1: 5b81fac37693119bc0c2455e565b6834e61d2256
+SHA256: 952f6f72be88e61944a0d79b052f612a22506520f1257b0bfbd9a256c3c575d1
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
@@ -927,32 +927,32 @@ Author: x✨
 Name: 图图记账会员
 
 Package: com.xx.xhshook
-Version: 1.1.0-2
+Version: 1.1.0-3
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 3192
+Installed-Size: 3196
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.1.0-2_iphoneos-arm.deb
-Size: 1108518
-MD5sum: 483a845538049b8ee4ed1dfdab1434bb
-SHA1: 029fdc5245ca9bccc45aab1ad598f52d5e1f69e5
-SHA256: 14b9599d1a8fa9097fac572bd85f91205d465efbd08facfa51e76def969ecb73
+Filename: debs/rootfull/com.xx.xhshook_1.1.0-3_iphoneos-arm.deb
+Size: 1111830
+MD5sum: eee3bfb37a19101039aab239e2c09468
+SHA1: d6ee0c90f3d234965c002cfbbe5362a8fdc6c77c
+SHA256: aebdf224e74423da6df6c6c56feaae386ede6af60925b2a9971c554bbf13bd74
 Section: Tweaks
 Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
 Author: x✨
 Name: 小红薯
 
 Package: com.xx.xhshook
-Version: 1.1.0-2
+Version: 1.1.0-3
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 3192
+Installed-Size: 3196
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.1.0-2_iphoneos-arm64.deb
-Size: 1108242
-MD5sum: a7829775e125cae8959a7b06a6a4fb65
-SHA1: d15e064e5e729ea6205b7414395b6ded2cae2917
-SHA256: 4611f12adcc5ab820a73ac50a385ef12f1bbc2a2964da425bce81dfe799ca634
+Filename: debs/rootless/com.xx.xhshook_1.1.0-3_iphoneos-arm64.deb
+Size: 1112688
+MD5sum: 422162495273cb907a3a28c78f5f9b53
+SHA1: 4f93e63af95fe0bb85904f1c55474d2b241eb241
+SHA256: 04f738c70635c0a7e76bce71fc539fb487ca7c7b852472d8fdddd4d9e0787593
 Section: Tweaks
 Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
 Author: x✨
