@@ -162,13 +162,13 @@ Package: com.xx.dyhook
 Version: 2.0.6+1
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 10780
+Installed-Size: 10652
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootfull/com.xx.dyhook_2.0.6+1_iphoneos-arm.deb
-Size: 3799652
-MD5sum: df6c87c0e04aca1f07b29c30f48f5df6
-SHA1: 8f1769b7fb93799a7934bdd72b81582576dfeb4d
-SHA256: 06749c55e64a853c14b8249c9285a9687dbf43271735de4676df4d26db5e1a48
+Size: 3754840
+MD5sum: d74120158e775e2053f76d234446d275
+SHA1: 8fff80093e182b10bdc2c245220ae5f3b1cd211b
+SHA256: ed4985c0e11d2eb54b25e70193cdb02a47cc43ff979feca595049f17b4c46f71
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
@@ -178,13 +178,13 @@ Package: com.xx.dyhook
 Version: 2.0.6+1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 10700
+Installed-Size: 10652
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/rootless/com.xx.dyhook_2.0.6+1_iphoneos-arm64.deb
-Size: 3777414
-MD5sum: 0dbc1b7595edbe42f216c97fc800b78f
-SHA1: 3dd453e9c9f796c2d1802083af8a9c0c750b89f7
-SHA256: 2c0808637cb3d17a7b3f08dced9e0aefbba7c0d4213f8114e50ed2f8913f6550
+Size: 3762988
+MD5sum: 4155fb8da8bc5decdf9c6de8c42a2cff
+SHA1: 7b8077bded2a3ff67142011ed09be783204c80c0
+SHA256: 2efe21b48a341fca61ef15303028511f4372c1f25c52e3263a9e9d3628d17e18
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
