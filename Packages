@@ -414,6 +414,38 @@ Description: iCost记账 解锁Pro
 Author: x✨
 Name: iCostPro
 
+Package: com.xx.igamegodnoads
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.igamegodnoads_1.0.0_iphoneos-arm.deb
+Size: 151106
+MD5sum: fecd6cce8363f0b98b7a9df7d0ae6107
+SHA1: 58e6df8e10b56a927208283dcb2fd4a8c4b00d04
+SHA256: 4061fad1999b3d397ab1293cb1337f95f5a8f4479c45316edd59c9df4d9ae129
+Section: Tweaks
+Description: iGameGodNoAds 仅适用于官方0.4.4版
+Author: x✨
+Name: iGameGodNoAds
+
+Package: com.xx.igamegodnoads
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.igamegodnoads_1.0.0_iphoneos-arm64.deb
+Size: 151246
+MD5sum: f997467f113da5f4aacd61fe7fc31279
+SHA1: 06a4a34942185ac7e79fb931592a10f3c537f10b
+SHA256: c02e6fc17892f22ad5dfe966a58caedfd0d87a6ccbc2517f52dcf4ba10dc837b
+Section: Tweaks
+Description: iGameGodNoAds 仅适用于官方0.4.4版
+Author: x✨
+Name: iGameGodNoAds
+
 Package: com.xx.intolivehook
 Version: 1.0.0
 Architecture: iphoneos-arm
