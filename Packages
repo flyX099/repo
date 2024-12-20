@@ -94,6 +94,38 @@ Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移�
 Author: x✨
 Name: 百度地图优化
 
+Package: com.xx.clickerheroescheat
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1088
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.clickerheroescheat_1.0.0_iphoneos-arm.deb
+Size: 347178
+MD5sum: 7fa0295307014e9dc5d1ef35a7bb1d97
+SHA1: 2fce1f490c5ac9dcb1cdefe8af2e3e1ef72311ee
+SHA256: 2d534cf6002cdacbc7701f37cd6087595cf3027b7b2d611abb13c7e9117b5de2
+Section: Tweaks
+Description: cheat
+Author: x✨
+Name: ClickerHeroesCheat
+
+Package: com.xx.clickerheroescheat
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1088
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.clickerheroescheat_1.0.0_iphoneos-arm64.deb
+Size: 346388
+MD5sum: e19ac87548bdb503707992b892023140
+SHA1: 37ae16019747d6b58f4e2ae448ae91ae8de84f0a
+SHA256: eada149f416e40bf3625271469f5f7e420a8f080aa5d41ac90bbc446464237cd
+Section: Tweaks
+Description: cheat
+Author: x✨
+Name: ClickerHeroesCheat
+
 Package: com.xx.dazzpro
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -127,96 +159,32 @@ Author: x✨
 Name: DazzPro
 
 Package: com.xx.dyhook
-Version: 2.0.5-5
+Version: 2.0.8+5
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 9384
+Installed-Size: 9072
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.5-5_iphoneos-arm.deb
-Size: 3279378
-MD5sum: 265766fdddf94f1f9f8d4fd9bc05d324
-SHA1: 19d6340bebf23eef7fca2fc861ae64506a9d33c9
-SHA256: cc0d76f59c4a19531710e9183b5360132307b5e8da58c1448b7803b348255864
+Filename: debs/rootfull/com.xx.dyhook_2.0.8+5_iphoneos-arm.deb
+Size: 2783644
+MD5sum: daa83350c2e41b44836327252dbfc5ea
+SHA1: 80fb5c2ac2b945dbc2a6c6ab1c5262902458a451
+SHA256: 0319d6ea93cddbba5bca6d84a7d9eee8feb9ed5201b09024e62da6cf0e083904
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
 
 Package: com.xx.dyhook
-Version: 2.0.5-5
+Version: 2.0.8+5
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 9448
+Installed-Size: 9024
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.5-5_iphoneos-arm64.deb
-Size: 3298236
-MD5sum: ed054e199790383afd5335c70420765e
-SHA1: 5b81fac37693119bc0c2455e565b6834e61d2256
-SHA256: 952f6f72be88e61944a0d79b052f612a22506520f1257b0bfbd9a256c3c575d1
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
-
-Package: com.xx.dyhook
-Version: 2.0.6+1
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 10652
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.6+1_iphoneos-arm.deb
-Size: 3754840
-MD5sum: d74120158e775e2053f76d234446d275
-SHA1: 8fff80093e182b10bdc2c245220ae5f3b1cd211b
-SHA256: ed4985c0e11d2eb54b25e70193cdb02a47cc43ff979feca595049f17b4c46f71
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
-
-Package: com.xx.dyhook
-Version: 2.0.6+1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 10652
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.6+1_iphoneos-arm64.deb
-Size: 3762988
-MD5sum: 4155fb8da8bc5decdf9c6de8c42a2cff
-SHA1: 7b8077bded2a3ff67142011ed09be783204c80c0
-SHA256: 2efe21b48a341fca61ef15303028511f4372c1f25c52e3263a9e9d3628d17e18
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
-
-Package: com.xx.dyhook
-Version: 2.0.6+2
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 10700
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.dyhook_2.0.6+2_iphoneos-arm.deb
-Size: 3772466
-MD5sum: 75cb3a9e412a42aa3cb750fb2cfedd6d
-SHA1: c87db0ff93b12c79de650fb626a609eeffe9f56e
-SHA256: 316bb102df556c713aa9dbf9a7425615e0a235d7f801be92e77997425b3656e3
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
-
-Package: com.xx.dyhook
-Version: 2.0.6+2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 10620
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.dyhook_2.0.6+2_iphoneos-arm64.deb
-Size: 3742552
-MD5sum: 1e73161ad8c9cb009ca9dcff3ab86a3a
-SHA1: 2e1ccd7d5f9101d99158b62c7d316c2ea8749ca5
-SHA256: 804c53e36d407e6d0a90d445e7db42ada5e52c9be9ebb4e89582ddc405e05d61
+Filename: debs/rootless/com.xx.dyhook_2.0.8+5_iphoneos-arm64.deb
+Size: 2765300
+MD5sum: 68845f8c11025b6c8e24a71a3275a9cc
+SHA1: 30c25229eaf5ee94d09b51e1655ef32749b0a906
+SHA256: 8e6242e4c43db55b02921888ef4458a0fbb31b867fbb13ef55ae1f7b2801a54c
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
@@ -413,6 +381,38 @@ Section: Tweaks
 Description: 自用 | 看剧 短剧 漫画 听书 音乐 无广告 移除VPN检测 移除开屏Ads | 仅越狱使用 更新支持216版本
 Author: x✨
 Name: iBoxNoAds
+
+Package: com.xx.icostpro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.icostpro_1.0.0_iphoneos-arm.deb
+Size: 89024
+MD5sum: de0ff60eb04707a85e82cfbe4c2bb7e7
+SHA1: b16e0e4491aba46d33827360c06fa7176a2531a7
+SHA256: 5eddc46854c5d508fff262f1c67c95af3e0e78d9c5ea86d4932dcb3e886d3191
+Section: Tweaks
+Description: iCost记账 解锁Pro
+Author: x✨
+Name: iCostPro
+
+Package: com.xx.icostpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.icostpro_1.0.0_iphoneos-arm64.deb
+Size: 89274
+MD5sum: 199f2d2a30a51f40a8ae06054b0e0cb2
+SHA1: afe58b2854428f09dac73dba52969ec623f12256
+SHA256: 510da6ad4d07905fab4371b32fa96b4e581feb8fa12da25f5415ba7adbdc47f9
+Section: Tweaks
+Description: iCost记账 解锁Pro
+Author: x✨
+Name: iCostPro
 
 Package: com.xx.intolivehook
 Version: 1.0.0
@@ -671,100 +671,36 @@ Author: x✨
 Name: 七猫小说Hook
 
 Package: com.xx.qqhook
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 1664
+Installed-Size: 1944
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.1.1_iphoneos-arm.deb
-Size: 599256
-MD5sum: 9a9b9b0649ff14e3bfee711263258c1b
-SHA1: a75e50b807cc80cfb8bea809895a6570fb8a7674
-SHA256: 470874ddf6552d1452e6eaedbc14b56e48d4fca396fd977854643ca16ae7a4e7
+Filename: debs/rootfull/com.xx.qqhook_1.1.2_iphoneos-arm.deb
+Size: 589892
+MD5sum: 8de79182808cdec3b35e7ec6643aa9e5
+SHA1: 40428106cca6bd45a5dd523fb7819f0b13074ff7
+SHA256: 61b85a571feaa49f18f13834722ebe7dbd540d836702e73e35739f1ff56c627d
 Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+
 Author: x✨
-Name: QQ新版防撤回
+Name: QQ·TIM 新版防撤回
 
 Package: com.xx.qqhook
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 1632
+Installed-Size: 1928
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.1.1_iphoneos-arm64.deb
-Size: 586868
-MD5sum: ce0d290216342d6764372a75299ce441
-SHA1: 1061641f16bb93407165577a633624c99d52f685
-SHA256: 7b753845aee4afee4f6a4372f878df94ecf9d3d2669108d5ac357559fba413bd
+Filename: debs/rootless/com.xx.qqhook_1.1.2_iphoneos-arm64.deb
+Size: 592492
+MD5sum: 5beead53eec5df3bb00d32e61e5facbe
+SHA1: d18fc8168bb9e136b6d5c79496a1db8b6b98f246
+SHA256: 89446abd1890c29381b4b02244029dc40181f2a9a18badad6e0ce40020bb588e
 Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
+Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+
 Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.1.1-1
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 1616
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.1.1-1_iphoneos-arm.deb
-Size: 577988
-MD5sum: 5e143d57bf47c24b5c843039377e87f7
-SHA1: 9b66d80c160442f5d7a0fd02030f3f9b75bbfc8a
-SHA256: f4fb57ce0cddd374dec7ff62fad5302d053db2964715ab8b8a45c3235ea7ec74
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.1.1-1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 1600
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.1.1-1_iphoneos-arm64.deb
-Size: 576330
-MD5sum: 1e0fc963db189f03cfad0cda90c3c87c
-SHA1: 08902cf38994e5de260aebab46bbd2ce1096e7c8
-SHA256: 9d94f2ee36dbee03c68f3511d1973e2ad1eb681fbccc48fde9211533ddd098c6
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.1.1-2
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 2216
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.qqhook_1.1.1-2_iphoneos-arm.deb
-Size: 764726
-MD5sum: b6bcf5a69a35f7996c2708251ec89d23
-SHA1: f9864559a72efcb7549e8af1448e98c22df87382
-SHA256: 56f9d64f93b08a229d6a250f6324b501da37f2c9411074770ea3853fa929fe03
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
-
-Package: com.xx.qqhook
-Version: 1.1.1-2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 2280
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.qqhook_1.1.1-2_iphoneos-arm64.deb
-Size: 785358
-MD5sum: b6201921bbfa26eecc6321b7569dd062
-SHA1: e0484bd80ccdf08df5e1dd004e1e777e1f4140da
-SHA256: b038d51912ec6f59fc8431c34773984b74f5ffadf25c9ba252728600af427c03
-Section: Tweaks
-Description: QQ设置-辅助功能-右上角开启 支持9.0.20+
-Author: x✨
-Name: QQ新版防撤回
+Name: QQ·TIM 新版防撤回
 
 Package: com.xx.qsyyhook
 Version: 1.0.1
@@ -829,6 +765,38 @@ Section: Tweaks
 Description: 与小黑联手制作 | 去除启动广告 | 秒过激励视频(自行测试是否可用 不能用就在设置界面长按可以关闭或者卸载此插件)
 Author: x✨
 Name: 汽水音乐NoAds
+
+Package: com.xx.safarixhook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.safarixhook_1.0.0_iphoneos-arm.deb
+Size: 12306
+MD5sum: 4feac2b343196606b2a87ecb24f7b985
+SHA1: a67e7ce31ecb9e3e80889ffb594ce33f1fcdd350
+SHA256: c0903cd574dc41cf8dafe57b229e288bd319c49cd347a8497f6bc19c7573ebc6
+Section: Tweaks
+Description: 解决SafariX闪退问题
+Author: x✨
+Name: SafariXHook
+
+Package: com.xx.safarixhook
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.safarixhook_1.0.0_iphoneos-arm64.deb
+Size: 10110
+MD5sum: 72c0b1fc557f92147ad5f1d86eb6f78a
+SHA1: 0c1a1545b0adec4bc39662d5799af07643b48674
+SHA256: 548afeb19a425bc2cb432679878d1570392a5250055803caf93be14045a2e37b
+Section: Tweaks
+Description: 解决SafariX闪退问题
+Author: x✨
+Name: SafariXHook
 
 Package: com.xx.simcitycheat
 Version: 1.0.0
@@ -991,34 +959,34 @@ Author: x✨
 Name: 图图记账会员
 
 Package: com.xx.xhshook
-Version: 1.1.0-3
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 3196
+Installed-Size: 2420
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.1.0-3_iphoneos-arm.deb
-Size: 1111830
-MD5sum: eee3bfb37a19101039aab239e2c09468
-SHA1: d6ee0c90f3d234965c002cfbbe5362a8fdc6c77c
-SHA256: aebdf224e74423da6df6c6c56feaae386ede6af60925b2a9971c554bbf13bd74
+Filename: debs/rootfull/com.xx.xhshook_1.1.2_iphoneos-arm.deb
+Size: 767348
+MD5sum: 3608edfc57ad17bb28594bac590cd230
+SHA1: bf0907f279e1ba353789d9112f3e9fb9222ef0fe
+SHA256: b67666070c61a96408c4b95d3b9f5eafca3d2d382161e56c44116380f24654cc
 Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
 Author: x✨
 Name: 小红薯
 
 Package: com.xx.xhshook
-Version: 1.1.0-3
+Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 3196
+Installed-Size: 2420
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.1.0-3_iphoneos-arm64.deb
-Size: 1112688
-MD5sum: 422162495273cb907a3a28c78f5f9b53
-SHA1: 4f93e63af95fe0bb85904f1c55474d2b241eb241
-SHA256: 04f738c70635c0a7e76bce71fc539fb487ca7c7b852472d8fdddd4d9e0787593
+Filename: debs/rootless/com.xx.xhshook_1.1.2_iphoneos-arm64.deb
+Size: 766964
+MD5sum: e7af8eadcb05f4af1739b1af9cef5706
+SHA1: 02ae855c839fd44c2657fcc40b86b000384e2228
+SHA256: d68e840846f20d4a628f42387e31004916034d07a591ceda89d69d61ded96b2c
 Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
 Author: x✨
 Name: 小红薯
 
