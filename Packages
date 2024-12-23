@@ -702,6 +702,38 @@ Description: 自用 | 去除启动广告以及部分广告 | 全部小说阅读�
 Author: x✨
 Name: 七猫小说Hook
 
+Package: com.xx.qmxshook
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qmxshook_1.0.3_iphoneos-arm.deb
+Size: 114060
+MD5sum: 09a2afd52345a17c38506d2febb449ea
+SHA1: 01bf76f039948127e707f19e8e79504afeba2a20
+SHA256: 63add2283f3e50bac84dbc8700d4e7a45e6e2e0f475a8b5c30e9849d2457ce87
+Section: Tweaks
+Description: 开通免广告权益 仅支持7.63.10版本
+Author: x✨
+Name: 七猫小说Hook
+
+Package: com.xx.qmxshook
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qmxshook_1.0.3_iphoneos-arm64.deb
+Size: 114616
+MD5sum: d4ad95df540c516db9e159f157e7999e
+SHA1: b673ed8b01c068c83f8caa5ab2f3c79ae36013c5
+SHA256: aa02bed22ff10eb37447029bdde2fd46944dadf9ae335c5b0593cfdb1f98a07a
+Section: Tweaks
+Description: 开通免广告权益 仅支持7.63.10版本
+Author: x✨
+Name: 七猫小说Hook
+
 Package: com.xx.qqhook
 Version: 1.1.2
 Architecture: iphoneos-arm
