@@ -1022,6 +1022,38 @@ Description: 图图记账会员解锁 仅支持3.2.17版本
 Author: x✨
 Name: 图图记账会员
 
+Package: com.xx.wsyhnojb
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.wsyhnojb_1.0.0_iphoneos-arm.deb
+Size: 129212
+MD5sum: 0e0894090c1aeb63f406557b169f92f6
+SHA1: 2120a169ada5c61a78586736d50e8bf10eed4a7e
+SHA256: 5d6c15d086e5f43d8f0d835756959c6b2aeed77ed3bf114830a6d6bce55650a1
+Section: Tweaks
+Description: 网商银行NoJbCheck 仅支持4.6.4
+Author: x✨
+Name: 网商银行NoJbCheck
+
+Package: com.xx.wsyhnojb
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.wsyhnojb_1.0.0_iphoneos-arm64.deb
+Size: 128556
+MD5sum: 8211344f90496be55b50800d63891d3a
+SHA1: 90d105dc0bf9c1861ad7e07fc22f476298a3a436
+SHA256: 40bc7f5356ceb7ec8b34e9b6752f528790c1566d6bcad6249b1e6c99fdddeaf6
+Section: Tweaks
+Description: 网商银行NoJbCheck 仅支持4.6.4
+Author: x✨
+Name: 网商银行NoJbCheck
+
 Package: com.xx.xhshook
 Version: 1.1.2
 Architecture: iphoneos-arm
