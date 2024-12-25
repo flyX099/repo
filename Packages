@@ -1118,3 +1118,35 @@ Description: 解锁Pro(使用shadow解决了越狱检测) 插件仅供个人学�
 Author: x✨
 Name: 亚瑟浏览器Pro
 
+Package: com.xx.ysbrowserhook
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.ysbrowserhook_1.0.1_iphoneos-arm.deb
+Size: 10510
+MD5sum: 53836c11f4a1e0a5e7e8f2c17adbe714
+SHA1: 10148e61163827d7729ed701abc396ab1a3198eb
+SHA256: ebe522e265db2bac28e6e635b89ba42a39579309e65eddc62e915cde238db380
+Section: Tweaks
+Description: 解锁Pro 屏蔽越狱检测
+Author: x✨
+Name: 亚瑟浏览器Pro
+
+Package: com.xx.ysbrowserhook
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.ysbrowserhook_1.0.1_iphoneos-arm64.deb
+Size: 10502
+MD5sum: 9f4bf80cd53d517874ab1a0b105599fc
+SHA1: c353868c42a708e9bd25ac26cb9cc2b474e17bad
+SHA256: e4ebb5fd4c74e94d3d35b23b22e03baa51b953a012015f31cf8193d6cafe967c
+Section: Tweaks
+Description: 解锁Pro 屏蔽越狱检测
+Author: x✨
+Name: 亚瑟浏览器Pro
+
