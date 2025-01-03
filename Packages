@@ -254,6 +254,38 @@ Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
 
+Package: com.xx.dyhook
+Version: 2.0.8+6
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 8924
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dyhook_2.0.8+6_iphoneos-arm.deb
+Size: 2718064
+MD5sum: 613f356d7fec63fca78597ef358cf4bd
+SHA1: 6a647d3ebeb3e836703c03d43dd3195532f954b5
+SHA256: d8d2c358c41fa0b64d41b0c7df17f2ed7a36841cba93aafde1753ba339bc3e1b
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.8+6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 8940
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dyhook_2.0.8+6_iphoneos-arm64.deb
+Size: 2726464
+MD5sum: 3d8ae823927f35b79025a259e30745bc
+SHA1: 34771f9bb7a5076b928ecdd35cce9446229df46e
+SHA256: 64dde5bc12d19643b0fe583fe3f03cc5d98edfb740737043302ba577aa9c2a67
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
 Package: com.xx.ecnyhook
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -317,6 +349,38 @@ Section: Tweaks
 Description: 多彩壁纸Pro
 Author: x✨
 Name: 多彩壁纸Pro
+
+Package: com.xx.flyplanenoads
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.flyplanenoads_1.0.0_iphoneos-arm.deb
+Size: 100964
+MD5sum: c2d742b9d1836474e481f06dfe4b2b78
+SHA1: 71e788d09245cc19f8174dcff67c0ab10cdcdb4d
+SHA256: 269495909510ce7cb416d37886fe781dd8a49dd68c931de865c610e51991bab4
+Section: Tweaks
+Description: JumpAdVideo GMVersion v1.5
+Author: x✨
+Name: 飞机模拟高手
+
+Package: com.xx.flyplanenoads
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.flyplanenoads_1.0.0_iphoneos-arm64.deb
+Size: 100760
+MD5sum: 915edcf05b274aeb75fa303989ae2966
+SHA1: f2cfe43931cf642fa55ac0b57964d7397f044c8a
+SHA256: 7e5cab5a39cb7bb28011eda0179cecd042197f301c7652b744a9d197837e9344
+Section: Tweaks
+Description: JumpAdVideo GMVersion v1.5
+Author: x✨
+Name: 飞机模拟高手
 
 Package: com.xx.gaodehook
 Version: 1.0.3
@@ -1149,6 +1213,38 @@ Section: Tweaks
 Description: 解锁会员 插件仅供个人学习交流使用 如有能力请支持正版
 Author: x✨
 Name: SpiderProxyCrack
+
+Package: com.xx.surgepro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.surgepro_1.0.0_iphoneos-arm.deb
+Size: 77224
+MD5sum: d686806fc3efd31a7d8b22a31d42a3ba
+SHA1: c8237e2b73a027667a324d4cc417f9488edf2a79
+SHA256: 4256454530a77788d8a2e6ed2908399b12a0e25418870f75314a899363100aa7
+Section: Tweaks
+Description: Surge Pro 仅支持5.14.2版本
+Author: x✨
+Name: Surge Pro
+
+Package: com.xx.surgepro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.surgepro_1.0.0_iphoneos-arm64.deb
+Size: 77364
+MD5sum: 4a1a3b20ca03bbe9d9c311c1baf5a5fe
+SHA1: b469e763802ec414e01b0850b1e2a037dfee0af4
+SHA256: a771ca8e085c536d116811d318e1b1c9cbd1a605eaa3b2030c16ec8583cf20f1
+Section: Tweaks
+Description: Surge Pro 仅支持5.14.2版本
+Author: x✨
+Name: Surge Pro
 
 Package: com.xx.totofinancevip
 Version: 1.0.0
