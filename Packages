@@ -798,6 +798,38 @@ Description: Liit-照片视频编辑 解锁Pro 仅支持1.4.5版本
 Author: x✨
 Name: LiitPro
 
+Package: com.xx.picsewpro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.picsewpro_1.0.0_iphoneos-arm.deb
+Size: 24738
+MD5sum: 778bb3a595347092a87cb038e84f3a78
+SHA1: 8bf3173b2881ab29caef1ecf58925d55d9743bc3
+SHA256: cfb056f91c40133b46143edfbd2b8e5b499c77c5a4da02e82fc67f2057b4ca17
+Section: Tweaks
+Description: Picsew Pro 如无效重置或重进程序
+Author: x✨
+Name: PicsewPro
+
+Package: com.xx.picsewpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.picsewpro_1.0.0_iphoneos-arm64.deb
+Size: 24660
+MD5sum: 893f32094de75232c08f4be1b86e6f5f
+SHA1: 5b08091f6ccf192b725626e9329ac40e6913bcb0
+SHA256: ca8d6d236ede69a944627954e0bd6997ce594e549cdcaed7c36a2259369c5950
+Section: Tweaks
+Description: Picsew Pro 如无效重置或重进程序
+Author: x✨
+Name: PicsewPro
+
 Package: com.xx.ppxhook
 Version: 1.0.6
 Architecture: iphoneos-arm
