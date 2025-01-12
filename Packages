@@ -478,6 +478,38 @@ Description: 自用 功能默认开启 | 去除启动广告 首页一些无用�
 Author: x✨
 Name: 高德地图优化
 
+Package: com.xx.gasstation
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 1152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.gasstation_1.0.0_iphoneos-arm.deb
+Size: 318090
+MD5sum: 7eaff8d1566926a380a7145c6d50e81d
+SHA1: c696bd8acf1f5c5e1230d01a53d3683876a2d996
+SHA256: 7e9bbe5566c2e6347a709c89097bd397935d466b480b3a5e8ffea1dcb3c5a498
+Section: Tweaks
+Description: 货币修改 移除广告 游戏变速 支持非越狱 支持后续版本更新
+Author: x✨
+Name: 做个大生意(Game)
+
+Package: com.xx.gasstation
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.gasstation_1.0.0_iphoneos-arm64.deb
+Size: 319914
+MD5sum: 30c8a7398ee7f154d282b554cb34b0c4
+SHA1: 47515bc3620c39eceaf842fd7f9508cddb6eaeb5
+SHA256: 1df2a349f72d5f3df33495bde6328dc099ec5e283bdf7039f6a134f794c26c4d
+Section: Tweaks
+Description: 货币修改 移除广告 游戏变速 支持非越狱 支持后续版本更新
+Author: x✨
+Name: 做个大生意(Game)
+
 Package: com.xx.growvip
 Version: 1.0.0
 Architecture: iphoneos-arm
