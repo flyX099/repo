@@ -1342,6 +1342,38 @@ Description: Surge Pro 仅支持5.14.2版本
 Author: x✨
 Name: Surge Pro
 
+Package: com.xx.taptitans2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 540
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.taptitans2_1.0.0_iphoneos-arm.deb
+Size: 168424
+MD5sum: 4c603bddb95467188c5a3977e18e0270
+SHA1: c8d943a9fb9274aff631ab92ae9e86c3bac53592
+SHA256: db0a548dba01b42d62ad1445d1de33bba5313ca837662ec11782b7cfada48524
+Section: Tweaks
+Description: 金币·蓝量修改 自定义跳关 获取宠物 自动使用技能 免广告 游戏变速 支持非越狱 支持后续版本更新
+Author: x✨
+Name: 点击泰坦2(Game)
+
+Package: com.xx.taptitans2
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 540
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.taptitans2_1.0.0_iphoneos-arm64.deb
+Size: 167552
+MD5sum: 9561e6cfdf52cdfad137b7d34b30e722
+SHA1: 4a455438bd0caf5e1d2c0904eb93822a5a42ef6d
+SHA256: 469babd24cf31eaabb33464056ce569b8aa61a3198e4dac362b82931c8380e3f
+Section: Tweaks
+Description: 金币·蓝量修改 自定义跳关 获取宠物 自动使用技能 免广告 游戏变速 支持非越狱 支持后续版本更新
+Author: x✨
+Name: 点击泰坦2(Game)
+
 Package: com.xx.totofinancevip
 Version: 1.0.0
 Architecture: iphoneos-arm
