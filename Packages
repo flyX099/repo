@@ -1503,32 +1503,32 @@ Author: x✨
 Name: 小红薯
 
 Package: com.xx.xhshook
-Version: 1.1.5
+Version: 1.1.5-1
 Architecture: iphoneos-arm
 Maintainer: x✨
-Installed-Size: 2624
+Installed-Size: 2836
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootfull/com.xx.xhshook_1.1.5_iphoneos-arm.deb
-Size: 838444
-MD5sum: 74e10f2720a2622217dbc769010c1306
-SHA1: ab76d1bc5c3e716d87a414065e5930a43b91366c
-SHA256: 74efcb4d4a7b46d2fa1de2586ee83b8b45f9b5ec13ac63fcf88fec9990839ced
+Filename: debs/rootfull/com.xx.xhshook_1.1.5-1_iphoneos-arm.deb
+Size: 916376
+MD5sum: ba92599fe914cb11d38880cc20d873fe
+SHA1: 81da4d605a4c9e1ec9d18fb3eb30dba367b93cd4
+SHA256: 067d89ceb506b8d994bf4262bb281fbbca3aeb6c249d72987cd1495ca42bc4ca
 Section: Tweaks
 Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
 Author: x✨
 Name: 小红薯
 
 Package: com.xx.xhshook
-Version: 1.1.5
+Version: 1.1.5-1
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 2608
+Installed-Size: 2836
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/rootless/com.xx.xhshook_1.1.5_iphoneos-arm64.deb
-Size: 833612
-MD5sum: 063fc75ff12ab555453af9bfee934109
-SHA1: 0398a47c3dee6606ed5a8662f1debc25fbdb6262
-SHA256: e654a36bad4d256a9891ef3167d41404ce7272022f448ba6f813ca9debd32c50
+Filename: debs/rootless/com.xx.xhshook_1.1.5-1_iphoneos-arm64.deb
+Size: 905840
+MD5sum: 616860e089915e994b85ace7cd7aa05b
+SHA1: 2719e915421d6ac4130b719fa53edf0f0e174391
+SHA256: 5374287d13cb80ed788055d3da5eadd4f0d16e28a2877f5da16b653bc61d2866
 Section: Tweaks
 Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
 Author: x✨
