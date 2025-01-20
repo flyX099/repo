@@ -222,6 +222,38 @@ Description: Dazz相机解锁Pro 仅支持2.9.1版本
 Author: x✨
 Name: DazzPro
 
+Package: com.xx.dazzpro
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.dazzpro_1.0.2_iphoneos-arm.deb
+Size: 18842
+MD5sum: fecd27fdcb099957bdd15a69d996ef99
+SHA1: 68d4fdbf40f3e48f7d8848907703c866c1c0bc46
+SHA256: 6d66bb59a5a72eb391408a64208338549e0e34c34e50912392e3ee7fb4897ebe
+Section: Tweaks
+Description: Dazz相机解锁Pro 仅支持2.9.4版本 支持非越狱
+Author: x✨
+Name: DazzPro
+
+Package: com.xx.dazzpro
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.dazzpro_1.0.2_iphoneos-arm64.deb
+Size: 18978
+MD5sum: 3949e9e11082f943269d856ba0e857d6
+SHA1: 954b4f798c8c10afc3be635b6e486c93ea66d58f
+SHA256: 4676da76a792df45e57076310e5dd623c1a7061ca512bd178240ea54914bdc0c
+Section: Tweaks
+Description: Dazz相机解锁Pro 仅支持2.9.4版本 支持非越狱
+Author: x✨
+Name: DazzPro
+
 Package: com.xx.dyhook
 Version: 2.0.8+5
 Architecture: iphoneos-arm
@@ -1086,6 +1118,38 @@ Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支�
 Author: x✨
 Name: QQ·TIM 新版防撤回
 
+Package: com.xx.qqhook
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.qqhook_1.1.5_iphoneos-arm.deb
+Size: 617780
+MD5sum: 9ca87877e7ae45b0a989c9a0b6b92251
+SHA1: 027fbb785bae4240d7e8ac2d3cb5ae3871dc042f
+SHA256: 533ffb4d0cac194ccb88baf9edfe8f2c052f95b5e6b99ea6bcc8760451593f4f
+Section: Tweaks
+Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+
+Author: x✨
+Name: QQ·TIM 新版防撤回
+
+Package: com.xx.qqhook
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2012
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.qqhook_1.1.5_iphoneos-arm64.deb
+Size: 616188
+MD5sum: 3e1a58796f87f7e26a1fabc32156b5ec
+SHA1: d68844ab2c2e1f9375ac7ed6766fed0a3960b3f5
+SHA256: e1ff4e039655f64543c61771e52790cca3f99c1107637761684b724b7c4a0e65
+Section: Tweaks
+Description: QQ·TIM设置-辅助功能-右上角开启(或新设置界面) 支持QQ9.0.20+ TIM4.0.95+
+Author: x✨
+Name: QQ·TIM 新版防撤回
+
 Package: com.xx.qsyyhook
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1214,6 +1278,38 @@ Description: SimCity模拟城市国际版 货币作弊 仅支持1.56.2版本
 Author: x✨
 Name: SimCityCheat
 
+Package: com.xx.simcitycheat
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 504
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.simcitycheat_1.0.1_iphoneos-arm.deb
+Size: 153868
+MD5sum: 756340d2b5361f0fb360faf5b01568dc
+SHA1: d92b86c77805f36594058def096c13aaa625677c
+SHA256: 656ead3cede77fd30d1eccdd296ccd1e8cd936f3e7da413fb98460a7d09be95a
+Section: Tweaks
+Description: SimCity·模拟城市(国际+国服) 绿钞金钱 仅支持国际1.60.1版本 国服0.96.21404版本 仅支持越狱·JIT
+Author: x✨
+Name: SimCity(Game)
+
+Package: com.xx.simcitycheat
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 504
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.simcitycheat_1.0.1_iphoneos-arm64.deb
+Size: 151048
+MD5sum: 0cdc93a5a9fc96589adb444650b078c8
+SHA1: c514c06294f63c711c08099357bccfd11adb188c
+SHA256: 79da1d74d687ee9434a73c4dc5101a4c8a045a2238061a585aba2b4cecb370cd
+Section: Tweaks
+Description: SimCity·模拟城市(国际+国服) 绿钞金钱 仅支持国际1.60.1版本 国服0.96.21404版本 仅支持越狱·JIT
+Author: x✨
+Name: SimCity(Game)
+
 Package: com.xx.soulatch
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -1310,6 +1406,38 @@ Description: 解锁会员 插件仅供个人学习交流使用 如有能力请�
 Author: x✨
 Name: SpiderProxyCrack
 
+Package: com.xx.spidercrack
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.spidercrack_1.0.5_iphoneos-arm.deb
+Size: 38252
+MD5sum: 708f3f334cbabe5c0f8722176df42f1d
+SHA1: c469c409be7a06939cbd98552af9ed11356866d9
+SHA256: 3c0c610301997f518e08bf9042ff65be9859b74d6775a44432387820fa0990fa
+Section: Tweaks
+Description: 解锁会员 插件仅供个人学习交流使用 如有能力请支持正版 更新支持新版 支持非越狱
+Author: x✨
+Name: SpiderProxyCrack
+
+Package: com.xx.spidercrack
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.spidercrack_1.0.5_iphoneos-arm64.deb
+Size: 40970
+MD5sum: 1970532fe167c99ab5ee3fe5f6f92cbc
+SHA1: 5cf3df5eb1317b0074cd92874bac7e7999419356
+SHA256: 0f5771220319e3475bc3bb137e3f5397ed30edd89c7c210b088051114678ca58
+Section: Tweaks
+Description: 解锁会员 插件仅供个人学习交流使用 如有能力请支持正版 更新支持新版 支持非越狱
+Author: x✨
+Name: SpiderProxyCrack
+
 Package: com.xx.surgepro
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -1369,6 +1497,38 @@ Size: 167552
 MD5sum: 9561e6cfdf52cdfad137b7d34b30e722
 SHA1: 4a455438bd0caf5e1d2c0904eb93822a5a42ef6d
 SHA256: 469babd24cf31eaabb33464056ce569b8aa61a3198e4dac362b82931c8380e3f
+Section: Tweaks
+Description: 金币·蓝量修改 自定义跳关 获取宠物 自动使用技能 免广告 游戏变速 支持非越狱 支持后续版本更新
+Author: x✨
+Name: 点击泰坦2(Game)
+
+Package: com.xx.taptitans2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 520
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.taptitans2_1.0.1_iphoneos-arm.deb
+Size: 157644
+MD5sum: 881cb1e7a24e4fc1cd0cc356928a86b3
+SHA1: d446cbef537a568f3a499fe2f102607289f0c125
+SHA256: 15ceb01c8cb0224d210f7d96640f9ef44570eb802c768ccb240dabd9a1414f23
+Section: Tweaks
+Description: 金币·蓝量修改 自定义跳关 获取宠物 自动使用技能 免广告 游戏变速 支持非越狱 支持后续版本更新
+Author: x✨
+Name: 点击泰坦2(Game)
+
+Package: com.xx.taptitans2
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.taptitans2_1.0.1_iphoneos-arm64.deb
+Size: 162412
+MD5sum: 752074dbbd19e4ee2219226156bbf7b3
+SHA1: 1c8fe1db0141c7b1d97963a4885e659107a99438
+SHA256: ccd12944c8671fea82cd7df1fbe446aefe4cb0301bba6ea0df2413c251cf9953
 Section: Tweaks
 Description: 金币·蓝量修改 自定义跳关 获取宠物 自动使用技能 免广告 游戏变速 支持非越狱 支持后续版本更新
 Author: x✨
