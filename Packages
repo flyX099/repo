@@ -894,6 +894,38 @@ Description: Liit-照片视频编辑 解锁Pro 仅支持1.4.5版本
 Author: x✨
 Name: LiitPro
 
+Package: com.xx.liitpro
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.liitpro_1.0.2_iphoneos-arm.deb
+Size: 60890
+MD5sum: f21a5e1212032f8421c9da3eea195eab
+SHA1: fe965d5a26fb7209be5b18f43f33b0f4c3cfabe4
+SHA256: bc240359ed9d29396a8cd83dc8245935dc616c7b9ef3fae34eb1496f850ab370
+Section: Tweaks
+Description: Liit-照片视频编辑 解锁Pro
+Author: x✨
+Name: LiitPro
+
+Package: com.xx.liitpro
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.liitpro_1.0.2_iphoneos-arm64.deb
+Size: 54976
+MD5sum: 392b9925da4f8ebaa07f18bc17704a7a
+SHA1: 95a236331fa5f9e2368f82cb57a9affd158e95e3
+SHA256: e6b4aee6e3ad7931389f265a153d88fd4538da42a47f38e400d7fbccfa5f4e6f
+Section: Tweaks
+Description: Liit-照片视频编辑 解锁Pro
+Author: x✨
+Name: LiitPro
+
 Package: com.xx.picsewpro
 Version: 1.0.0
 Architecture: iphoneos-arm
