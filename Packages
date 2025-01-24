@@ -158,6 +158,38 @@ Description: cheat
 Author: x✨
 Name: ClickerHeroesCheat
 
+Package: com.xx.danke
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootfull/com.xx.danke_1.0.0_iphoneos-arm.deb
+Size: 128230
+MD5sum: adff31a26e469ae557be49d69c3dab28
+SHA1: 0e49cedce86cfa5290f935a7b79c4ff14e911759
+SHA256: 485f0d57b78d479fd8bea2486253f5895336f2fe5ace2ebdf3113a0d8abdf6fb
+Section: Tweaks
+Description: 高范围吸收 武器无间隔攻击 高血量 游戏变速 支持非越狱 支持后续版本更新
+Author: x✨
+Name: 弹壳特工队(Game)
+
+Package: com.xx.danke
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/com.xx.danke_1.0.0_iphoneos-arm64.deb
+Size: 129664
+MD5sum: 4039d13b56912460e354d857db47b03b
+SHA1: dfad4b7378581f1ac8538bd0647a93912223988c
+SHA256: a491694118c3d431cb239f62a9a1858260e131b85154a6572afd23a4586c5f70
+Section: Tweaks
+Description: 高范围吸收 武器无间隔攻击 高血量 游戏变速 支持非越狱 支持后续版本更新
+Author: x✨
+Name: 弹壳特工队(Game)
+
 Package: com.xx.dazzpro
 Version: 1.0.0
 Architecture: iphoneos-arm
